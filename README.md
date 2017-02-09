@@ -7,3 +7,6 @@ Un repo con todos los calcos que nos encanta encontrar al llegar a un evento
 ![Soy Libre](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/soy-libre.png)
 
 ![Calavera](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/calavera.png)
+
+![La Nube](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/la-nube.png)
+
