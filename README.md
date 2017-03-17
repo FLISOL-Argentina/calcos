@@ -1,5 +1,5 @@
 # calcos
-Un repo con todos los calcos que nos encanta encontrar al llegar a un evento
+Un repo con todos los calcos que nos encanta encontrar al llegar a un evento.  Las imágenes debajo son muestras, para imprimir componer una A3 o A4 utilizando los fuentes .SVG !!!
 
 
 ![FLISOL-logo](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/FLISOL-logo.png)
