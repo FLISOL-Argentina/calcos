@@ -9,7 +9,7 @@ const url = require('url');
 const appDirectory = fs.realpathSync(process.cwd());
 const resolveApp = relativePath => path.resolve(appDirectory, relativePath);
 
-const envPublicUrl = process.env.PUBLIC_URL;
+const envPublicUrl = 'https://flisol-argentina.github.io/calcos/';
 
 function ensureSlash(path, needsSlash) {
   const hasSlash = path.endsWith('/');
