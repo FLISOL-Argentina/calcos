@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.calco {
+  max-width: 100%;
+  max-height: 20vh;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  display: block;
+}
+
+.image {
+  min-height: 30vh;
+  display: block;
+}
+
+.images {
+  margin-top: 20px;
+}
