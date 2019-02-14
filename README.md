@@ -13,3 +13,34 @@ Un repo con todos los calcos que nos encanta encontrar al llegar a un evento.  L
 ![LinuxChixAR](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/linuxchixarg_calco.png)
 
 ![SysArmy](https://raw.githubusercontent.com/FLISOL-Argentina/calcos/master/sysarmy.png)
+
+
+# /Afiche
+
+Diseño genérico de afiche, que se puede ir personalizando para cada sede.
+
+
+# /redes
+
+Gráfica para redes sociales.
+
+
+# /laminas
+
+**4 Libertades** Editable y en SVG para poder agregar al pie el logo de quien los imprima
+
+**Mapa de la Licencia Media** Laímna para explicar de manera humoristica las licencias de software.
+
+
+
+# /Logos y etc
+Otras cosas que son dificiles de clasificar:
+
+**Migrateclas**
+(para imprimir en vinilo) logos de distros y desktop para la tecla "Super" del teclado.
+
+**GNU y Tux de Origami**
+Instrucciones paso a paso. El Tux es el más dificil y viene con una plantilla, pero se puede hacer en papel de color.
+
+**Miltitos**
+La mascota de gulBAC "Tito" en diferente disfraces
