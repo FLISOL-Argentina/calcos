@@ -32,6 +32,15 @@ Gráfica para redes sociales.
 **Mapa de la Licencia Media** Laímna para explicar de manera humoristica las licencias de software.
 
 
+# /Planchas A3
+
+Planchas de calcos para imprimir en A3
+
+
+# /packaging CD
+
+Sobres para CD diseño bajo licencia Creative Commons (Vamox.CD) por Darío Badagnani
+
 
 # /Logos y etc
 Otras cosas que son dificiles de clasificar:
