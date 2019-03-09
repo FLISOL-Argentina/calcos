@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.7.0" root="/home/dafeba/Documentos/diseños/flisol 2019/git Flisol Argentina/calcos/video" producer="main bin" LC_NUMERIC="es_AR.UTF-8">
+ <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1080p 25 fps" progressive="1" sample_aspect_num="1"/>
+ <producer id="1" out="2637" in="0">
+  <property name="length">2638</property>
+  <property name="eof">pause</property>
+  <property name="resource">fondo-video.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">399936</property>
+  <property name="kdenlive:file_hash">0f2793f53d36a27e11160bed44b27135</property>
+ </producer>
+ <producer id="2" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi1-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">50790</property>
+  <property name="kdenlive:file_hash">16b9a25350cebcb6dec9eedc1a0fa62f</property>
+ </producer>
+ <producer id="3" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi2-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">8732</property>
+  <property name="kdenlive:file_hash">a2bea14c3cc2de85538926ac462f0116</property>
+ </producer>
+ <producer id="4" out="381" in="0">
+  <property name="length">382</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi3-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">53826</property>
+  <property name="kdenlive:file_hash">f717026e10a884912028717ad62d623e</property>
+ </producer>
+ <producer id="5" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi4-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">28411</property>
+  <property name="kdenlive:file_hash">c11cdab2a667569d879a4b4754f21a5a</property>
+ </producer>
+ <producer id="6" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi5-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2526</property>
+  <property name="kdenlive:file_hash">a3ade9d38c0bf8537baca9d8bc1cca7c</property>
+ </producer>
+ <producer id="7" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi6-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">171108</property>
+  <property name="kdenlive:file_hash">4c15ccf4d5e97025b439b4c275d8a77e</property>
+ </producer>
+ <producer id="8" out="208" in="0">
+  <property name="length">209</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi7-curvas.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">34496</property>
+  <property name="kdenlive:file_hash">9bc1eab213d808299b53ebbab41624ef</property>
+ </producer>
+ <producer id="9" out="381" in="0">
+  <property name="length">382</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphi5-rectos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">3090</property>
+  <property name="kdenlive:file_hash">fd8eed691d8036620e3bc0110b618cdc</property>
+ </producer>
+ <producer id="10" title="Anonymous Submission" out="2150" in="0">
+  <property name="length">2151</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/dafeba/Música/Fresh Body Shop - Instrumentals - a125285 --- Jamendo - MP3/50 - Fresh Body Shop - My Artificial Sun _instrumental_.mp3</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">215991</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.98r</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">400</property>
+  <property name="meta.media.1.codec.height">400</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">My Artificial Sun (instrumental)</property>
+  <property name="meta.attr.artist.markup">Fresh Body Shop</property>
+  <property name="meta.attr.album.markup">Instrumentals</property>
+  <property name="meta.attr.date.markup">2013</property>
+  <property name="meta.attr.track.markup">51</property>
+  <property name="meta.attr.ID3 v1 Comment.markup">Attribution-Noncommercial-No</property>
+  <property name="meta.attr.genre.markup">(255)</property>
+  <property name="meta.attr.publisher.markup">Jamendo</property>
+  <property name="meta.attr.comment.markup">http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</property>
+  <property name="meta.attr.copyright.markup">2013-09-07T01:59:24+01:00 Fresh Body Shop. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/125285/</property>
+  <property name="meta.attr.encoded_by.markup">Jamendo : http://www.jamendo.com | LAME</property>
+  <property name="meta.attr.TDTG.markup">2013-10-04T15:17:54</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">72</property>
+  <property name="meta.media.sample_aspect_den">72</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">2340428</property>
+  <property name="kdenlive:file_hash">fb9949addf0f9d4c24a33df7520d7485</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">2</property>
+  <property name="kdenlive:docproperties.decimalPoint">,</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1552159520373</property>
+  <property name="kdenlive:docproperties.enableproxy">1</property>
+  <property name="kdenlive:docproperties.generateimageproxy">1</property>
+  <property name="kdenlive:docproperties.generateproxy">1</property>
+  <property name="kdenlive:docproperties.kdenliveversion">18.04.1</property>
+  <property name="kdenlive:docproperties.position">2727</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension">mov</property>
+  <property name="kdenlive:docproperties.previewparameters">r=25 s=1920x1080 vb=36M threads=0 vcodec=dnxhd</property>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">480</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf scale=960:-2 -g 1 -bf 0 -vb 0 -qscale 6 -ab 128k -vcodec mpeg2video -acodec ac3</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">3</property>
+  <property name="kdenlive:docproperties.zonein">2267</property>
+  <property name="kdenlive:docproperties.zoneout">3074</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:guide.109,24">00:01:49:06</property>
+  <property name="kdenlive:docproperties.renderaudioquality">6</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">0</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM - the widespread free format (VP8/Vorbis)</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">720</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">1280</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">0</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/dafeba/Documentos/diseños/flisol 2019/spot flisol.webm</property>
+  <property name="kdenlive:docproperties.renderzone">1</property>
+  <property name="xml_retain">1</property>
+  <entry out="124" producer="1" in="0"/>
+  <entry out="124" producer="2" in="0"/>
+  <entry out="124" producer="3" in="0"/>
+  <entry out="124" producer="4" in="0"/>
+  <entry out="124" producer="5" in="0"/>
+  <entry out="124" producer="6" in="0"/>
+  <entry out="124" producer="7" in="0"/>
+  <entry out="124" producer="8" in="0"/>
+  <entry out="124" producer="9" in="0"/>
+  <entry out="2150" producer="10" in="0"/>
+ </playlist>
+ <producer id="black" out="500" in="0">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="3075" producer="black" in="0"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <producer id="10_playlist2" title="Anonymous Submission" out="2150" in="0">
+  <property name="length">2151</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/dafeba/Música/Fresh Body Shop - Instrumentals - a125285 --- Jamendo - MP3/50 - Fresh Body Shop - My Artificial Sun _instrumental_.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">2340428</property>
+  <property name="kdenlive:file_hash">fb9949addf0f9d4c24a33df7520d7485</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">215991</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.98r</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">400</property>
+  <property name="meta.media.1.codec.height">400</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">My Artificial Sun (instrumental)</property>
+  <property name="meta.attr.artist.markup">Fresh Body Shop</property>
+  <property name="meta.attr.album.markup">Instrumentals</property>
+  <property name="meta.attr.date.markup">2013</property>
+  <property name="meta.attr.track.markup">51</property>
+  <property name="meta.attr.ID3 v1 Comment.markup">Attribution-Noncommercial-No</property>
+  <property name="meta.attr.genre.markup">(255)</property>
+  <property name="meta.attr.publisher.markup">Jamendo</property>
+  <property name="meta.attr.comment.markup">http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</property>
+  <property name="meta.attr.copyright.markup">2013-09-07T01:59:24+01:00 Fresh Body Shop. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/125285/</property>
+  <property name="meta.attr.encoded_by.markup">Jamendo : http://www.jamendo.com | LAME</property>
+  <property name="meta.attr.TDTG.markup">2013-10-04T15:17:54</property>
+  <property name="meta.media.sample_aspect_num">72</property>
+  <property name="meta.media.sample_aspect_den">72</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="2267"/>
+  <entry out="2094" producer="10_playlist2" in="1287">
+   <filter id="fadein" out="1302" in="1287">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 1</property>
+  <blank length="2267"/>
+  <entry out="812" producer="1" in="5"/>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <blank length="2284"/>
+  <entry out="95" producer="2" in="0"/>
+  <blank length="21"/>
+  <entry out="321" producer="4" in="0">
+   <filter id="qtblend">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-120 -5 4800 2700 0;6=-150 19 4622 2600 1;26=-1300 100 4032 2268 1;55=-1500 100 4032 2268 1;63=-1950 100 4032 2268 1;73=-276 -260 4032 2268 1;143=-1899 -260 4032 2268 1;187=0 0 1920 1080 1;308=0 0 1920 1080 1;319=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;6=0;26=0;55=0;63=0;73=0;143=0;187=0;308=0;319=0;321=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <blank length="9"/>
+  <entry out="124" producer="5" in="0"/>
+  <blank length="45"/>
+  <entry out="207" producer="8" in="35">
+   <filter id="filter0">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-9700 -9880 26880 15120 1;35=-480 50 2880 1620 0;44=-768 -20 3456 1944 1;94=-768 -20 3456 1944 1;111=0 0 1920 1080 1;136=0 0 1920 1080 1</property>
+    <property name="rotation">0=0;33=0;35=0;44=0;94=0;111=0;136=0;207=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 3</property>
+  <blank length="2401"/>
+  <entry out="321" producer="9" in="0">
+   <filter id="filter1">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=0 0 1920 1080 1;143=0 0 1920 1080 1;187=-6700 -2800 15360 8640 1</property>
+    <property name="rotation">0=0;143=0;187=0;321=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <blank length="9"/>
+  <entry out="124" producer="6" in="0">
+   <filter id="filter2">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="rect">0=100 477 192 108 0;8=0 0 1920 1080 1;42=-1031 -2149 9600 5400 1</property>
+    <property name="rotation">0=0;8=0;42=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <blank length="2"/>
+  <entry out="106" producer="3" in="60">
+   <filter id="filter3">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">60=480 270 960 540 0;63=0 0 1920 1080 1;97=0 0 1920 1080 1;106=-1920 -1080 5760 3240 0</property>
+    <property name="rotation">60=0;63=0;97=0;106=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="3075" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5" out="2722" in="2401">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0,2</property>
+   <property name="mlt_service">frei0r.alphain</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+  </transition>
+  <transition id="transition6" out="2856" in="2732">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0,2</property>
+   <property name="mlt_service">frei0r.alphain</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+  </transition>
+  <transition id="transition7" out="2379" in="2284">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">1</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="force_track">0</property>
+   <property name="deinterlace">0</property>
+   <property name="distort">0</property>
+   <property name="fill">1</property>
+   <property name="geometry">0=-220/863:2304x1296:100;13=-220/-69:2304x1296:100;24=-1/-1:1920x1080:100</property>
+   <property name="halign">centre</property>
+   <property name="luma_invert">0</property>
+   <property name="operator">over</property>
+   <property name="softness">0</property>
+   <property name="valign">middle</property>
+   <property name="luma"/>
+  </transition>
+  <transition id="transition8">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition9">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition10">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
