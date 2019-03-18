@@ -1,0 +1,3615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="https://launchpad.net/jessyink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   version="1.1"
+   id="svg1781"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="slides con jessyink.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41054689"
+     inkscape:cx="774.65355"
+     inkscape:cy="363.62678"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1044"
+       orientation="1,0"
+       position="230.19505,-0.32223279" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1046"
+       orientation="1,0"
+       position="221.01739,36.45648" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1775">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3317">
+      <stop
+         style="stop-color:#fe8e29;stop-opacity:1;"
+         offset="0"
+         id="stop3313" />
+      <stop
+         style="stop-color:#0066ff;stop-opacity:1"
+         offset="1"
+         id="stop3315" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(9.0827591,0,0,3.0276644,-2958.755,-1507.6343)"
+       y2="554.41284"
+       x2="320.49225"
+       y1="514.41864"
+       x1="361.02408"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4316"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(9.0827592,0,0,3.0276644,-2958.7549,-1614.1343)"
+       y2="554.41284"
+       x2="320.49225"
+       y1="514.41864"
+       x1="361.02408"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4316-3"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.35203033,0,0,0.35203033,36.481216,90.949537)"
+       gradientUnits="userSpaceOnUse"
+       y2="110.98731"
+       x2="-31.003265"
+       y1="79.716774"
+       x1="-5.6126604"
+       id="linearGradient3017"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="110.98731"
+       x2="-31.003265"
+       y1="79.716774"
+       x1="-5.6126604"
+       gradientTransform="matrix(0.35203033,0,0,0.35203033,36.481216,90.949537)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3060"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(9.0827592,0,0,3.0276644,-2958.7549,-1614.1343)"
+       y2="554.41284"
+       x2="320.49225"
+       y1="514.41864"
+       x1="361.02408"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4316-3-7"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(9.0827592,0,0,3.0276644,-2958.7549,-1614.1343)"
+       y2="554.41284"
+       x2="320.49225"
+       y1="514.41864"
+       x1="361.02408"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4316-3-7-3"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.996875,0,0,0.52916666,0.52916667,89.164579)"
+       gradientUnits="userSpaceOnUse"
+       y2="214.56755"
+       x2="-216.54044"
+       y1="187.5"
+       x1="417.93591"
+       id="linearGradient1205"
+       xlink:href="#linearGradient3317"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata1778">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(0,-106.49998)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient4316);fill-opacity:1;stroke:none;stroke-width:0.1195161;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4298"
+       width="338.66666"
+       height="29.104166"
+       x="-7.1054274e-15"
+       y="106.49998" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14782-3-8-0-6-3"
+       d="m 325.82529,107.16265 c -0.25513,-0.0207 -0.50035,0.0783 -0.68059,0.31608 l -2.20671,3.93078 c -0.22581,0.36993 -0.22633,0.72577 0.14261,1.05838 1.36239,1.02972 2.77342,1.69268 2.77342,1.69268 0.24861,0.10475 0.4634,0.0182 0.65291,-0.21019 l 1.14725,-1.81825 c 0.18718,-0.34218 0.0624,-0.57377 -0.21072,-0.75242 l -1.87998,-1.17812 -0.12079,0.18358 1.70917,1.48781 -1.09297,1.74642 -2.46373,-1.66394 2.30835,-3.73761 4.23089,3.01925 -2.51534,3.86053 a 6.62853,6.6285232 78.260865 0 0 -5.12273,-1.09563 l -1.38937,-5.68997 c 0,0 -2.1812,-0.16519 -2.12848,0.7918 0.0527,0.95699 1.5953,0.29586 1.5953,0.29586 l 1.42821,4.71884 a 6.62853,6.6285232 78.260865 0 0 -3.07087,1.88424 l -4.48684,-2.80161 c -0.4486,-0.32929 -1.29409,-0.18197 -1.56869,0.31235 l -2.97881,4.87901 c -0.25283,0.39549 -0.22719,0.84984 0.15325,1.13821 l 3.93078,2.2067 c 0.36993,0.22581 0.72576,0.22633 1.05838,-0.14261 1.02971,-1.36238 1.69268,-2.77341 1.69268,-2.77341 0.10475,-0.24861 0.0182,-0.46341 -0.21019,-0.65291 l -1.81825,-1.14725 c -0.34218,-0.18719 -0.57322,-0.0624 -0.75189,0.21072 l -1.17865,1.87998 0.18359,0.12079 1.4878,-1.70917 1.74642,1.09298 -1.66394,2.46371 -3.73761,-2.30833 3.01925,-4.23143 4.1947,2.73351 a 6.62853,6.6285232 78.260865 0 0 -0.70452,4.57517 6.62853,6.6285232 78.260865 0 0 0.0351,0.1442 l -6.45037,1.57508 c 0,0 -0.16519,2.1812 0.7918,2.12848 0.95699,-0.0527 0.29586,-1.5953 0.29586,-1.5953 l 5.48563,-1.66021 a 6.62853,6.6285232 78.260865 0 0 1.53729,2.63027 l -3.22145,5.15944 c -0.32929,0.44862 -0.18197,1.2941 0.31235,1.56869 l 4.87901,2.97881 c 0.39548,0.25284 0.84984,0.2272 1.13821,-0.15325 l 2.20671,-3.93077 c 0.22582,-0.36994 0.22633,-0.72577 -0.14261,-1.05839 -1.36239,-1.02972 -2.77342,-1.69268 -2.77342,-1.69268 -0.24861,-0.10475 -0.46341,-0.0183 -0.65291,0.21019 l -1.14725,1.81826 c -0.18719,0.34217 -0.0624,0.57322 0.21072,0.75188 l 1.87998,1.17865 0.12079,-0.18358 -1.70917,-1.48781 1.09298,-1.74642 2.46371,1.66394 -2.30833,3.73761 -4.2309,-3.01925 3.1161,-4.7827 a 6.62853,6.6285232 78.260865 0 0 4.27454,1.00518 l 1.6368,6.70259 c 0,0 2.1812,0.16519 2.12848,-0.7918 -0.0527,-0.95697 -1.5953,-0.29586 -1.5953,-0.29586 l -1.72088,-5.68517 a 6.62853,6.6285232 78.260865 0 0 0.18518,-0.0287 6.62853,6.6285232 78.260865 0 0 2.65582,-1.21537 l 5.00938,3.12781 c 0.44861,0.32927 1.29409,0.18197 1.56869,-0.31236 l 2.97881,-4.87901 c 0.25285,-0.39548 0.22721,-0.84983 -0.15325,-1.13821 l -3.93077,-2.2067 c -0.36994,-0.22582 -0.72577,-0.22633 -1.05839,0.14261 -1.02972,1.36238 -1.69268,2.77341 -1.69268,2.77341 -0.10475,0.24861 -0.0182,0.4634 0.21019,0.65291 l 1.81825,1.14725 c 0.34218,0.1872 0.57323,0.0624 0.75189,-0.21072 l 1.17865,-1.87998 -0.18358,-0.12079 -1.48781,1.70917 -1.74642,-1.09297 1.66394,-2.46372 3.73761,2.30834 -3.01925,4.23089 -4.48152,-2.92028 a 6.62853,6.6285232 78.260865 0 0 1.43407,-4.6486 l 5.97252,-1.45855 c 0,0 0.16519,-2.1812 -0.7918,-2.12848 -0.95698,0.0527 -0.29586,1.5953 -0.29586,1.5953 l -4.94286,1.49632 a 6.62853,6.6285232 78.260865 0 0 -0.0543,-0.34641 6.62853,6.6285232 78.260865 0 0 -1.48515,-2.98626 l 2.68083,-4.29315 c 0.32928,-0.4486 0.18197,-1.29409 -0.31236,-1.56869 l -4.87901,-2.97881 c -0.1483,-0.0948 -0.30455,-0.15043 -0.45762,-0.16283 z m -5.90389,3.83287 a 0.66043257,0.69549804 66.515257 0 0 -0.72209,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m 0.51403,1.56124 a 0.66043257,0.69549804 66.515257 0 0 -0.72209,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.79019 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m -0.62524,3.62693 c 0.48247,0.0532 0.96489,0.1068 1.44736,0.16017 0.18057,0.41118 0.36113,0.82228 0.5417,1.23345 0.38367,-0.30383 1.01114,-0.31017 1.15949,0.23095 0.18055,0.25536 0.36115,0.51087 0.5417,0.76625 0.80056,-0.13552 1.60145,-0.27104 2.402,-0.40654 0.40383,0.41867 0.80729,0.83718 1.21111,1.2558 0.40238,-0.0189 0.805,-0.0384 1.20738,-0.0575 0.34596,1.26707 -0.39771,2.47964 -1.11266,3.46517 -0.47697,0.63504 -0.8795,1.31587 -1.19408,2.03802 -0.42063,0.20116 -0.0792,1.35437 -0.62365,0.9509 -0.19536,-0.51159 -0.0489,-1.11767 -0.10908,-1.68256 -0.0257,-0.83956 0.20091,-1.79852 -0.42038,-2.48926 -0.39422,-0.50908 -1.26754,-0.66279 -1.25581,-1.44311 0.0762,-0.64424 0.0736,-1.46084 -0.56032,-1.84007 -0.56824,-0.47113 -1.42641,-0.16129 -1.95608,-0.6891 -0.44001,-0.48042 -1.06934,-0.84482 -1.27868,-1.4926 z m 12.99226,0.47997 a 0.69549804,0.66043249 74.163281 0 0 -0.49221,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13409,0.97325 0.69549804,0.66043249 74.163281 0 0 0.92855,-0.1144 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97325 0.69549804,0.66043249 74.163281 0 0 -0.43581,-0.149 z m -1.53357,0.59172 a 0.69549804,0.66043249 74.163281 0 0 -0.49221,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13462,0.97325 0.69549804,0.66043249 74.163281 0 0 0.92802,-0.11441 0.69549804,0.66043249 74.163281 0 0 -0.13463,-0.97324 0.69549804,0.66043249 74.163281 0 0 -0.4358,-0.149 z m -15.46875,6.16728 a 0.69549807,0.66043254 57.815039 0 0 -0.59491,0.42303 0.69549807,0.66043254 57.815039 0 0 0.40281,0.89609 0.69549807,0.66043254 57.815039 0 0 0.85884,-0.37088 0.69549807,0.66043254 57.815039 0 0 -0.40334,-0.89609 0.69549807,0.66043254 57.815039 0 0 -0.2634,-0.0522 z m -1.3053,0.99932 a 0.69549807,0.66043254 57.815039 0 0 -0.5949,0.42304 0.69549807,0.66043254 57.815039 0 0 0.40334,0.89609 0.69549807,0.66043254 57.815039 0 0 0.85831,-0.37089 0.69549807,0.66043254 57.815039 0 0 -0.40281,-0.89609 0.69549807,0.66043254 57.815039 0 0 -0.26394,-0.0521 z m 12.40268,3.4359 a 0.66043257,0.69549804 66.515257 0 0 -0.72209,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m 0.51403,1.56124 a 0.66043257,0.69549804 66.515257 0 0 -0.72209,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18161617;marker:none;enable-background:accumulate" />
+    <g
+       id="flowRoot3278-1-2-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50981343"
+       transform="matrix(0.85614903,0,0,1.0032391,1625.9904,-677.38493)"
+       aria-label="15 años compartiendo Software Libre">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2691"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1892.3874,799.75031 v 5.10646 h -1.0532 V 800.811 l -1.1213,0.68945 -0.4697,-0.72733 1.6971,-1.02281 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2693"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1888.3411,800.53068 h -1.8865 v 1.17433 q 0.3712,-0.17426 0.7728,-0.17426 0.4243,0 0.75,0.19699 0.3334,0.19698 0.5228,0.5758 0.1894,0.37124 0.1894,0.87886 0,0.53034 -0.2424,0.93946 -0.2425,0.40155 -0.6895,0.62884 -0.4394,0.22729 -1.0228,0.22729 -0.9849,0 -1.6516,-0.74248 l 0.6061,-0.56823 q 0.4243,0.48489 1.0152,0.48489 0.4167,0 0.644,-0.25002 0.2349,-0.25002 0.2349,-0.71975 0,-0.90159 -0.7728,-0.90159 -0.1667,0 -0.3182,0.0455 -0.144,0.0379 -0.3182,0.13637 h -0.7501 v -2.71233 h 3.0457 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2695"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1882.2763,803.74305 q 0,0.23486 0.068,0.34851 0.068,0.10607 0.2273,0.1591 l -0.2273,0.71218 q -0.356,-0.0303 -0.5833,-0.16668 -0.2197,-0.13637 -0.341,-0.42428 -0.3939,0.60611 -1.2046,0.60611 -0.5985,0 -0.9546,-0.34093 -0.3485,-0.34852 -0.3485,-0.90159 0,-0.65914 0.4773,-1.00765 0.4773,-0.34852 1.3713,-0.34852 h 0.4621 v -0.19698 q 0,-0.37124 -0.1666,-0.51519 -0.1667,-0.14395 -0.5531,-0.14395 -0.4243,0 -1.0607,0.21214 l -0.2424,-0.71976 q 0.75,-0.29548 1.4849,-0.29548 0.8183,0 1.2047,0.35609 0.3864,0.34851 0.3864,1.04554 z m -1.7653,0.46215 q 0.4546,0 0.7121,-0.447 v -0.76521 h -0.356 q -0.8713,0 -0.8713,0.65156 0,0.26518 0.1288,0.4167 0.1364,0.14395 0.3864,0.14395 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2697"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1878.9588,800.72008 q 0.5303,0 0.8258,0.32579 0.2955,0.3182 0.2955,0.88643 v 2.92447 h -1.0759 v -2.74264 q 0,-0.32578 -0.1136,-0.45458 -0.1061,-0.13637 -0.3258,-0.13637 -0.2273,0 -0.4167,0.14395 -0.1818,0.13637 -0.3561,0.4167 v 2.77294 h -1.0758 v -4.01546 h 0.9318 l 0.083,0.50761 q 0.25,-0.31063 0.5455,-0.46973 0.303,-0.15911 0.6819,-0.15911 z m -0.098,-0.71217 q -0.1591,0 -0.2804,-0.053 -0.1136,-0.053 -0.2727,-0.15152 -0.099,-0.0758 -0.1743,-0.10607 -0.068,-0.0379 -0.1439,-0.0379 -0.1212,0 -0.2122,0.0833 -0.091,0.0833 -0.1894,0.25759 l -0.553,-0.27275 q 0.1515,-0.37124 0.3939,-0.6061 0.2425,-0.23487 0.5455,-0.23487 0.1743,0 0.2955,0.0606 0.1212,0.053 0.2728,0.15153 0.098,0.0682 0.1666,0.10606 0.068,0.0303 0.144,0.0303 0.1212,0 0.2045,-0.0758 0.091,-0.0833 0.197,-0.2576 l 0.5531,0.27275 q -0.1515,0.38639 -0.394,0.61368 -0.2424,0.21972 -0.553,0.21972 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2699"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1875.1318,800.72008 q 0.9015,0 1.4092,0.56823 0.5076,0.56065 0.5076,1.56073 0,0.63641 -0.2349,1.1213 -0.2273,0.47731 -0.6667,0.74248 -0.4319,0.26517 -1.0228,0.26517 -0.9016,0 -1.4168,-0.56065 -0.5076,-0.56822 -0.5076,-1.5683 0,-0.63642 0.2273,-1.11372 0.2348,-0.48489 0.6667,-0.75006 0.4394,-0.26518 1.038,-0.26518 z m 0,0.8031 q -0.4092,0 -0.6137,0.32578 -0.197,0.31821 -0.197,1.00008 0,0.68187 0.197,1.00765 0.2045,0.31821 0.6061,0.31821 0.4015,0 0.5985,-0.31821 0.2046,-0.32578 0.2046,-1.00765 0,-0.68187 -0.197,-1.00008 -0.197,-0.32578 -0.5985,-0.32578 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2701"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1871.0635,800.72008 q 0.8486,0 1.4547,0.48489 l -0.4091,0.61368 q -0.5076,-0.3182 -1.0001,-0.3182 -0.2652,0 -0.4091,0.0985 -0.144,0.0985 -0.144,0.26517 0,0.12122 0.061,0.20456 0.068,0.0833 0.2425,0.15911 0.1818,0.0758 0.5379,0.18183 0.6364,0.17426 0.947,0.46973 0.3107,0.2879 0.3107,0.79552 0,0.40155 -0.2349,0.69702 -0.2273,0.29548 -0.6213,0.45458 -0.3939,0.15153 -0.8788,0.15153 -0.5076,0 -0.9243,-0.15153 -0.4167,-0.1591 -0.7122,-0.43185 l 0.5303,-0.59095 q 0.5077,0.39397 1.0759,0.39397 0.303,0 0.4773,-0.11365 0.1818,-0.12122 0.1818,-0.32578 0,-0.1591 -0.068,-0.25002 -0.068,-0.0909 -0.25,-0.16668 -0.1818,-0.0833 -0.5682,-0.18941 -0.6061,-0.16668 -0.9016,-0.46973 -0.2879,-0.31063 -0.2879,-0.76521 0,-0.34094 0.197,-0.61369 0.197,-0.27275 0.5531,-0.42427 0.3636,-0.15911 0.8409,-0.15911 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2703"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1865.2474,800.72008 q 0.4015,0 0.7197,0.12123 0.3258,0.11364 0.6137,0.36366 l -0.4697,0.63641 q -0.197,-0.15152 -0.3864,-0.21971 -0.1819,-0.0682 -0.4016,-0.0682 -0.8561,0 -0.8561,1.31829 0,0.66672 0.2197,0.95462 0.2197,0.2879 0.6289,0.2879 0.2121,0 0.3863,-0.0606 0.1743,-0.0682 0.4092,-0.21972 l 0.4697,0.6743 q -0.5758,0.46973 -1.3183,0.46973 -0.5909,0 -1.0304,-0.25759 -0.4318,-0.2576 -0.6667,-0.72733 -0.2348,-0.47731 -0.2348,-1.11373 0,-0.63641 0.2348,-1.1213 0.2349,-0.49246 0.6667,-0.76521 0.4395,-0.27275 1.0153,-0.27275 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2705"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1861.7549,800.72008 q 0.9016,0 1.4092,0.56823 0.5077,0.56065 0.5077,1.56073 0,0.63641 -0.2349,1.1213 -0.2273,0.47731 -0.6667,0.74248 -0.4319,0.26517 -1.0228,0.26517 -0.9016,0 -1.4168,-0.56065 -0.5076,-0.56822 -0.5076,-1.5683 0,-0.63642 0.2273,-1.11372 0.2348,-0.48489 0.6667,-0.75006 0.4394,-0.26518 1.0379,-0.26518 z m 0,0.8031 q -0.4091,0 -0.6136,0.32578 -0.197,0.31821 -0.197,1.00008 0,0.68187 0.197,1.00765 0.2045,0.31821 0.6061,0.31821 0.4015,0 0.5985,-0.31821 0.2046,-0.32578 0.2046,-1.00765 0,-0.68187 -0.197,-1.00008 -0.197,-0.32578 -0.5986,-0.32578 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2707"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1854.6787,800.72008 q 0.4773,0 0.7652,0.32579 0.2955,0.32578 0.2955,0.88643 v 2.92447 h -1.0758 v -2.74264 q 0,-0.59095 -0.394,-0.59095 -0.2121,0 -0.3712,0.13637 -0.1591,0.13638 -0.3258,0.42428 v 2.77294 h -1.0759 v -2.74264 q 0,-0.59095 -0.3939,-0.59095 -0.2122,0 -0.3713,0.14395 -0.1591,0.13637 -0.3182,0.4167 v 2.77294 h -1.0758 v -4.01546 h 0.9319 l 0.083,0.50003 q 0.2273,-0.30305 0.5076,-0.46215 0.2879,-0.15911 0.6592,-0.15911 0.3409,0 0.5909,0.17426 0.2501,0.16668 0.3637,0.47731 0.25,-0.32578 0.5379,-0.48489 0.2955,-0.16668 0.6667,-0.16668 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2709"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1850.4309,800.72008 q 0.7576,0 1.1213,0.56065 0.3712,0.55308 0.3712,1.56073 0,0.61369 -0.1894,1.09857 -0.1894,0.48489 -0.5531,0.76521 -0.3561,0.27275 -0.8485,0.27275 -0.6137,0 -0.9925,-0.43185 v 1.85621 l -1.0759,0.12122 v -5.68226 h 0.9471 l 0.053,0.46973 q 0.2273,-0.29548 0.5304,-0.43943 0.3106,-0.15153 0.6364,-0.15153 z m -0.4167,3.45482 q 0.7879,0 0.7879,-1.32586 0,-0.72733 -0.1743,-1.03039 -0.1742,-0.30305 -0.5303,-0.30305 -0.2273,0 -0.4243,0.14395 -0.1894,0.13638 -0.3333,0.37124 v 1.75014 q 0.2576,0.39397 0.6743,0.39397 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2711"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1845.0901,803.74305 q 0,0.23486 0.068,0.34851 0.068,0.10607 0.2273,0.1591 l -0.2273,0.71218 q -0.3561,-0.0303 -0.5834,-0.16668 -0.2197,-0.13637 -0.3409,-0.42428 -0.394,0.60611 -1.2047,0.60611 -0.5985,0 -0.9546,-0.34093 -0.3485,-0.34852 -0.3485,-0.90159 0,-0.65914 0.4773,-1.00765 0.4773,-0.34852 1.3713,-0.34852 h 0.4622 v -0.19698 q 0,-0.37124 -0.1667,-0.51519 -0.1667,-0.14395 -0.5531,-0.14395 -0.4242,0 -1.0606,0.21214 l -0.2425,-0.71976 q 0.7501,-0.29548 1.485,-0.29548 0.8182,0 1.2046,0.35609 0.3864,0.34851 0.3864,1.04554 z m -1.7653,0.46215 q 0.4546,0 0.7122,-0.447 v -0.76521 h -0.3561 q -0.8713,0 -0.8713,0.65156 0,0.26518 0.1288,0.4167 0.1364,0.14395 0.3864,0.14395 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2713"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1841.9393,800.72766 q 0.1819,0 0.4016,0.0606 l -0.1819,1.03796 q -0.2121,-0.053 -0.356,-0.053 -0.3561,0 -0.5531,0.25002 -0.197,0.25002 -0.3107,0.75763 v 2.07592 h -1.0758 v -4.01546 h 0.9319 l 0.099,0.78036 q 0.1439,-0.42428 0.4167,-0.65914 0.2803,-0.23487 0.6288,-0.23487 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2715"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1838.6096,804.66736 q -0.2197,0.15153 -0.5,0.22729 -0.2728,0.0833 -0.5455,0.0833 -0.6213,-0.008 -0.9395,-0.35609 -0.3182,-0.34851 -0.3182,-1.0228 v -2.00016 h -0.5985 v -0.75763 h 0.5985 v -0.87886 l 1.0758,-0.1288 v 1.00766 h 0.9244 l -0.1061,0.75763 h -0.8183 v 1.97743 q 0,0.2879 0.099,0.4167 0.098,0.12879 0.3031,0.12879 0.2046,0 0.4546,-0.13637 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2717"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1837.0499,800.84131 v 4.01546 h -1.0759 v -4.01546 z m -0.5455,-2.06835 q 0.2879,0 0.4697,0.18184 0.1894,0.17425 0.1894,0.447 0,0.27275 -0.1894,0.45458 -0.1818,0.17426 -0.4697,0.17426 -0.2879,0 -0.4698,-0.17426 -0.1818,-0.18183 -0.1818,-0.45458 0,-0.27275 0.1818,-0.447 0.1819,-0.18184 0.4698,-0.18184 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2719"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1832.6007,802.75812 q 0,0.0758 -0.023,0.4167 h -2.5078 q 0.053,0.5455 0.2955,0.77279 0.2424,0.22729 0.6591,0.22729 0.2576,0 0.4849,-0.0833 0.2273,-0.0833 0.4925,-0.26517 l 0.447,0.6061 q -0.6743,0.5455 -1.5229,0.5455 -0.947,0 -1.4546,-0.56822 -0.5077,-0.56823 -0.5077,-1.538 0,-0.61369 0.2122,-1.09857 0.2197,-0.49247 0.6288,-0.77279 0.4167,-0.28033 0.9849,-0.28033 0.8562,0 1.3335,0.53793 0.4773,0.53792 0.4773,1.50011 z m -1.0683,-0.30305 q 0,-1.00008 -0.7197,-1.00008 -0.3334,0 -0.5228,0.25002 -0.1818,0.24244 -0.2197,0.79552 h 1.4622 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2721"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1829.5794,800.72008 q 0.5303,0 0.8258,0.32579 0.2955,0.3182 0.2955,0.88643 v 2.92447 h -1.0759 v -2.74264 q 0,-0.32578 -0.1136,-0.45458 -0.1061,-0.13637 -0.3258,-0.13637 -0.2273,0 -0.4167,0.14395 -0.1818,0.13637 -0.3561,0.4167 v 2.77294 h -1.0758 v -4.01546 h 0.9319 l 0.083,0.50761 q 0.25,-0.31063 0.5455,-0.46973 0.3031,-0.15911 0.6819,-0.15911 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2723"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1823.9644,799.2427 v 5.61407 h -0.947 l -0.061,-0.49246 q -0.4243,0.61368 -1.1516,0.61368 -0.7425,0 -1.1365,-0.56822 -0.3864,-0.57581 -0.3864,-1.56073 0,-0.62126 0.197,-1.09857 0.2046,-0.48489 0.5758,-0.75764 0.3712,-0.27275 0.8561,-0.27275 0.5607,0 0.9774,0.40155 v -2.00015 z m -1.841,4.9322 q 0.2348,0 0.4167,-0.11365 0.1818,-0.12122 0.3485,-0.37124 v -1.79559 q -0.1591,-0.18941 -0.3258,-0.28033 -0.1591,-0.0985 -0.3713,-0.0985 -0.3712,0 -0.5833,0.32578 -0.2046,0.32579 -0.2046,1.00766 0,0.71975 0.1818,1.02281 0.1894,0.30305 0.538,0.30305 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2725"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1821.2096,800.72008 q 0.9016,0 1.4092,0.56823 0.5077,0.56065 0.5077,1.56073 0,0.63641 -0.2349,1.1213 -0.2273,0.47731 -0.6667,0.74248 -0.4319,0.26517 -1.0228,0.26517 -0.9016,0 -1.4168,-0.56065 -0.5076,-0.56822 -0.5076,-1.5683 0,-0.63642 0.2273,-1.11372 0.2348,-0.48489 0.6667,-0.75006 0.4394,-0.26518 1.0379,-0.26518 z m 0,0.8031 q -0.4091,0 -0.6136,0.32578 -0.197,0.31821 -0.197,1.00008 0,0.68187 0.197,1.00765 0.2045,0.31821 0.6061,0.31821 0.4015,0 0.5985,-0.31821 0.2046,-0.32578 0.2046,-1.00765 0,-0.68187 -0.197,-1.00008 -0.197,-0.32578 -0.5986,-0.32578 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2727"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1815.0036,799.49272 q 0.5682,0 0.9849,0.16668 0.4243,0.1591 0.7804,0.49246 l -0.5303,0.61368 q -0.2804,-0.22729 -0.5607,-0.33336 -0.2803,-0.10607 -0.5985,-0.10607 -0.3485,0 -0.5607,0.15153 -0.2045,0.14395 -0.2045,0.4167 0,0.18941 0.083,0.31063 0.091,0.12122 0.3106,0.22729 0.2198,0.10607 0.6592,0.24244 0.7803,0.25002 1.1667,0.62126 0.3864,0.36367 0.3864,1.04554 0,0.48489 -0.2424,0.85613 -0.2425,0.36366 -0.7046,0.5758 -0.4622,0.20456 -1.0834,0.20456 -0.6213,0 -1.1062,-0.19698 -0.4849,-0.19699 -0.8334,-0.53792 l 0.5683,-0.62884 q 0.303,0.2576 0.6288,0.39397 0.3258,0.1288 0.7122,0.1288 0.4091,0 0.6515,-0.18941 0.2501,-0.18941 0.2501,-0.53035 0,-0.21213 -0.091,-0.34851 -0.083,-0.14395 -0.2954,-0.25759 -0.2122,-0.11365 -0.6137,-0.23487 -0.8562,-0.26517 -1.2274,-0.63641 -0.3637,-0.37124 -0.3637,-0.96978 0,-0.43942 0.2349,-0.77278 0.2349,-0.34094 0.6516,-0.52277 0.4167,-0.18183 0.947,-0.18183 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2729"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1810.6589,800.72008 q 0.9016,0 1.4092,0.56823 0.5076,0.56065 0.5076,1.56073 0,0.63641 -0.2348,1.1213 -0.2273,0.47731 -0.6668,0.74248 -0.4318,0.26517 -1.0228,0.26517 -0.9016,0 -1.4168,-0.56065 -0.5076,-0.56822 -0.5076,-1.5683 0,-0.63642 0.2273,-1.11372 0.2349,-0.48489 0.6667,-0.75006 0.4395,-0.26518 1.038,-0.26518 z m 0,0.8031 q -0.4091,0 -0.6137,0.32578 -0.197,0.31821 -0.197,1.00008 0,0.68187 0.197,1.00765 0.2046,0.31821 0.6061,0.31821 0.4016,0 0.5986,-0.31821 0.2045,-0.32578 0.2045,-1.00765 0,-0.68187 -0.197,-1.00008 -0.197,-0.32578 -0.5985,-0.32578 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2731"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1806.2041,799.92457 q -0.2728,0 -0.394,0.1288 -0.1136,0.12879 -0.1136,0.41669 v 0.37125 h 0.9546 l -0.1212,0.75763 h -0.8334 v 3.25783 h -1.0759 v -3.25783 h -0.6364 v -0.75763 h 0.6364 v -0.40155 q 0,-0.58338 0.3788,-0.94704 0.3864,-0.37124 1.091,-0.37124 0.5607,0 1.0607,0.24244 l -0.2955,0.71217 q -0.3257,-0.15152 -0.6515,-0.15152 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2733"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1802.8587,804.66736 q -0.2197,0.15153 -0.5,0.22729 -0.2728,0.0833 -0.5455,0.0833 -0.6213,-0.008 -0.9395,-0.35609 -0.3182,-0.34851 -0.3182,-1.0228 v -2.00016 h -0.5985 v -0.75763 h 0.5985 v -0.87886 l 1.0758,-0.1288 v 1.00766 h 0.9244 l -0.1061,0.75763 h -0.8183 v 1.97743 q 0,0.2879 0.099,0.4167 0.098,0.12879 0.3031,0.12879 0.2045,0 0.4546,-0.13637 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2735"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1797.3518,800.84131 -0.8561,4.01546 h -1.3107 l -0.5758,-3.05327 -0.5758,3.05327 h -1.2956 l -0.8788,-4.01546 h 1.0834 l 0.4925,3.21994 0.6667,-3.21994 h 1.0758 l 0.5986,3.21994 0.5455,-3.21994 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2737"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1793.8018,803.74305 q 0,0.23486 0.068,0.34851 0.068,0.10607 0.2273,0.1591 l -0.2273,0.71218 q -0.3561,-0.0303 -0.5834,-0.16668 -0.2197,-0.13637 -0.3409,-0.42428 -0.394,0.60611 -1.2046,0.60611 -0.5986,0 -0.9546,-0.34093 -0.3486,-0.34852 -0.3486,-0.90159 0,-0.65914 0.4773,-1.00765 0.4774,-0.34852 1.3714,-0.34852 h 0.4621 v -0.19698 q 0,-0.37124 -0.1667,-0.51519 -0.1666,-0.14395 -0.553,-0.14395 -0.4243,0 -1.0607,0.21214 l -0.2425,-0.71976 q 0.7501,-0.29548 1.485,-0.29548 0.8182,0 1.2046,0.35609 0.3864,0.34851 0.3864,1.04554 z m -1.7653,0.46215 q 0.4546,0 0.7122,-0.447 v -0.76521 h -0.3561 q -0.8712,0 -0.8712,0.65156 0,0.26518 0.1288,0.4167 0.1363,0.14395 0.3863,0.14395 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2739"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1790.6509,800.72766 q 0.1818,0 0.4015,0.0606 l -0.1818,1.03796 q -0.2122,-0.053 -0.3561,-0.053 -0.3561,0 -0.5531,0.25002 -0.197,0.25002 -0.3106,0.75763 v 2.07592 h -1.0759 v -4.01546 h 0.9319 l 0.099,0.78036 q 0.144,-0.42428 0.4167,-0.65914 0.2803,-0.23487 0.6289,-0.23487 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2741"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1786.5507,802.75812 q 0,0.0758 -0.023,0.4167 h -2.5077 q 0.053,0.5455 0.2955,0.77279 0.2424,0.22729 0.6591,0.22729 0.2576,0 0.4849,-0.0833 0.2273,-0.0833 0.4924,-0.26517 l 0.447,0.6061 q -0.6742,0.5455 -1.5228,0.5455 -0.947,0 -1.4547,-0.56822 -0.5076,-0.56823 -0.5076,-1.538 0,-0.61369 0.2122,-1.09857 0.2197,-0.49247 0.6288,-0.77279 0.4167,-0.28033 0.9849,-0.28033 0.8562,0 1.3335,0.53793 0.4773,0.53792 0.4773,1.50011 z m -1.0683,-0.30305 q 0,-1.00008 -0.7197,-1.00008 -0.3334,0 -0.5228,0.25002 -0.1818,0.24244 -0.2197,0.79552 h 1.4622 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2743"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1782.7859,799.61394 v 4.34882 h 2.0759 l -0.1212,0.89401 h -3.0684 v -5.24283 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2745"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1778.9843,800.84131 v 4.01546 h -1.0759 v -4.01546 z m -0.5455,-2.06835 q 0.2879,0 0.4697,0.18184 0.1894,0.17425 0.1894,0.447 0,0.27275 -0.1894,0.45458 -0.1818,0.17426 -0.4697,0.17426 -0.2879,0 -0.4698,-0.17426 -0.1818,-0.18183 -0.1818,-0.45458 0,-0.27275 0.1818,-0.447 0.1819,-0.18184 0.4698,-0.18184 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2747"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1775.7549,800.72008 q 0.7046,0 1.091,0.56065 0.394,0.56065 0.394,1.56831 0,0.62126 -0.197,1.10614 -0.1894,0.47731 -0.5531,0.75006 -0.3561,0.27275 -0.841,0.27275 -0.6591,0 -1.0531,-0.51519 l -0.061,0.39397 h -0.9546 v -5.61407 l 1.0758,-0.12122 v 2.15168 q 0.1894,-0.2576 0.4773,-0.40155 0.2879,-0.15153 0.6213,-0.15153 z m -0.4091,3.4624 q 0.7728,0 0.7728,-1.33344 0,-0.73491 -0.1894,-1.03039 -0.1819,-0.30305 -0.5304,-0.30305 -0.4318,0 -0.7425,0.51519 v 1.71983 q 0.2652,0.43186 0.6895,0.43186 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2749"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1771.3401,800.72766 q 0.1818,0 0.4015,0.0606 l -0.1818,1.03796 q -0.2122,-0.053 -0.3561,-0.053 -0.3561,0 -0.5531,0.25002 -0.197,0.25002 -0.3106,0.75763 v 2.07592 h -1.0759 v -4.01546 h 0.9319 l 0.099,0.78036 q 0.144,-0.42428 0.4167,-0.65914 0.2803,-0.23487 0.6289,-0.23487 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2751"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff;stroke-width:0.50981343"
+         d="m -1767.2399,802.75812 q 0,0.0758 -0.023,0.4167 h -2.5078 q 0.053,0.5455 0.2955,0.77279 0.2424,0.22729 0.6591,0.22729 0.2576,0 0.4849,-0.0833 0.2273,-0.0833 0.4924,-0.26517 l 0.4471,0.6061 q -0.6743,0.5455 -1.5229,0.5455 -0.947,0 -1.4547,-0.56822 -0.5076,-0.56823 -0.5076,-1.538 0,-0.61369 0.2122,-1.09857 0.2197,-0.49247 0.6288,-0.77279 0.4167,-0.28033 0.9849,-0.28033 0.8562,0 1.3335,0.53793 0.4773,0.53792 0.4773,1.50011 z m -1.0683,-0.30305 q 0,-1.00008 -0.7197,-1.00008 -0.3334,0 -0.5228,0.25002 -0.1818,0.24244 -0.2197,0.79552 h 1.4622 z" />
+    </g>
+    <g
+       id="flowRoot3278-1-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46370792"
+       transform="matrix(0.39201708,0,0,0.45936733,745.76732,-248.05112)"
+       aria-label="FLISOL">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2678"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1893.3015,804.85677 v -24.02202 h 14.7588 l -0.6567,4.52789 h -7.7078 v 5.7722 h 6.7746 v 4.52789 h -6.7746 v 9.19404 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2680"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1870.0977,780.83475 v 19.0448 h 9.2286 l -0.6913,4.97722 h -14.9316 v -24.02202 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2682"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1852.2081,780.83475 v 24.02202 h -6.3943 v -24.02202 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2684"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1840.1809,780.2126 q 2.7306,0 4.8044,0.79497 2.1084,0.79497 3.7675,2.38492 l -2.8688,3.38728 q -2.4886,-1.97015 -5.2192,-1.97015 -1.4171,0 -2.1775,0.55302 -0.7259,0.51846 -0.7259,1.48626 0,0.69128 0.3802,1.14061 0.3802,0.44933 1.2789,0.8641 0.8987,0.41477 2.8343,1.03692 3.6983,1.17518 5.392,2.97251 1.7282,1.76277 1.7282,4.9081 0,2.28123 -1.1752,4.04399 -1.1752,1.72821 -3.4219,2.696 -2.2121,0.96779 -5.2191,0.96779 -5.7377,0 -9.3669,-3.49097 l 3.1453,-3.49097 q 2.8689,2.35036 5.9796,2.35036 1.6245,0 2.5232,-0.69128 0.8987,-0.72585 0.8987,-1.90102 0,-0.82954 -0.3457,-1.348 -0.3456,-0.55303 -1.2443,-0.9678 -0.8641,-0.44933 -2.5577,-0.96779 -4.0786,-1.27887 -5.7377,-3.0762 -1.659,-1.79733 -1.659,-4.52789 0,-2.14297 1.1406,-3.76748 1.1752,-1.62451 3.2144,-2.48862 2.0739,-0.89866 4.6316,-0.89866 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2686"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1818.3683,780.2126 q 5.2192,0 8.1226,3.31815 2.9034,3.31815 2.9034,9.29773 0,3.90574 -1.3135,6.77455 -1.2788,2.83426 -3.7674,4.35507 -2.4886,1.52082 -5.9451,1.52082 -5.2191,0 -8.1225,-3.31815 -2.8688,-3.31815 -2.8688,-9.33229 0,-3.90574 1.2788,-6.73999 1.3135,-2.83425 3.7675,-4.35507 2.4886,-1.52082 5.945,-1.52082 z m 0,4.59702 q -2.2466,0 -3.3181,1.86646 -1.0369,1.86646 -1.0369,6.1524 0,4.28594 1.0715,6.18696 1.0714,1.86646 3.2835,1.86646 2.2813,0 3.3182,-1.86646 1.0369,-1.86645 1.0369,-6.18696 0,-4.28594 -1.0369,-6.1524 -1.0369,-1.86646 -3.3182,-1.86646 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2688"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
+         d="m -1798.2017,780.83475 v 19.0448 h 9.2286 l -0.6913,4.97722 h -14.9317 v -24.02202 z" />
+    </g>
+    <g
+       id="flowRoot3278-1-2-7-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#dbf5ff;fill-opacity:1;stroke:none;stroke-width:0.25006264"
+       transform="matrix(1.7454678,0,0,2.0453467,3353.9018,-1524.5399)"
+       aria-label="ARGENTINA ">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2659"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1891.403,804.85677 -0.4658,-1.45164 h -2.2357 l -0.4657,1.45164 h -0.4736 l 1.7777,-5.31751 h 0.5822 l 1.7699,5.31751 z m -2.5695,-1.84754 h 1.9795 l -0.9859,-3.08959 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2661"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1888.3953,802.47359 h -1.0635 v 2.38318 h -0.4658 v -5.31751 h 1.2887 q 1.8941,0 1.8941,1.44388 0,0.57444 -0.3028,0.91601 -0.3027,0.34156 -0.8849,0.48905 l 1.4594,2.46857 h -0.5512 z m -0.1785,-0.38037 q 1.3352,0 1.3352,-1.11008 0,-0.5434 -0.3338,-0.79957 -0.3338,-0.26393 -1.0791,-0.26393 h -0.8073 v 2.17358 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2663"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1883.5355,799.45387 q 0.4502,0 0.784,0.13197 0.3338,0.1242 0.6754,0.3959 l -0.2795,0.29498 q -0.2872,-0.22512 -0.5589,-0.32603 -0.2717,-0.10092 -0.621,-0.10092 -0.4581,0 -0.854,0.24065 -0.3881,0.24064 -0.6365,0.76851 -0.2407,0.52011 -0.2407,1.31968 0,1.1877 0.4503,1.77768 0.4502,0.58997 1.2576,0.58997 0.621,0 1.1178,-0.27946 v -1.88636 h -1.0402 l -0.054,-0.38814 h 1.5525 v 2.51514 q -0.7607,0.43472 -1.5758,0.43472 -1.017,0 -1.6069,-0.70641 -0.59,-0.70642 -0.59,-2.05714 0,-0.8772 0.3027,-1.49046 0.3106,-0.62102 0.8151,-0.92377 0.5124,-0.31051 1.1024,-0.31051 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2665"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1877.9138,799.53926 -0.054,0.38814 h -2.1813 v 1.97951 h 1.8863 v 0.38814 h -1.8863 v 2.17358 h 2.29 v 0.38814 h -2.7558 v -5.31751 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2667"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1873.1419,804.85677 h -0.6133 l -2.5073,-4.80517 q 0.062,0.97035 0.062,1.83202 v 2.97315 h -0.4425 v -5.31751 h 0.5977 l 2.5229,4.80517 q -0.062,-0.90049 -0.062,-1.57585 v -3.22932 h 0.4425 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2669"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1868.5088,799.53926 -0.054,0.41143 h -1.5603 v 4.90608 h -0.458 v -4.90608 h -1.5759 v -0.41143 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2671"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1867.1105,799.53926 v 5.31751 h -0.4657 v -5.31751 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2673"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1861.8919,804.85677 h -0.6133 l -2.5074,-4.80517 q 0.062,0.97035 0.062,1.83202 v 2.97315 h -0.4424 v -5.31751 h 0.5977 l 2.5229,4.80517 q -0.062,-0.90049 -0.062,-1.57585 v -3.22932 h 0.4425 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2675"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+         d="m -1857.2589,804.85677 -0.4657,-1.45164 h -2.2357 l -0.4658,1.45164 h -0.4735 l 1.7777,-5.31751 h 0.5822 l 1.7699,5.31751 z m -2.5695,-1.84754 h 1.9796 l -0.9859,-3.08959 z" />
+    </g>
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text2496"
+       y="174.7547"
+       x="39.049137"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.39647293px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#43319e;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan2494"
+         y="174.7547"
+         x="39.049137"
+         sodipodi:role="line"><tspan
+           id="tspan2492"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.53191185px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+           y="174.7547"
+           x="39.049137">TITULO</tspan></tspan></text>
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text2490"
+       y="197.00398"
+       x="39.732281"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:140.12606812px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65700555"
+       xml:space="preserve"><tspan
+         style="fill:#000000;fill-opacity:1;stroke-width:0.65700555"
+         id="tspan2488"
+         y="197.00398"
+         x="39.732281"
+         sodipodi:role="line"><tspan
+           dx="0 0 0 0 0 0"
+           id="tspan2484"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.39567375px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#000000;fill-opacity:1;stroke-width:0.35430181"
+           y="197.00398"
+           x="39.732281">Autor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.71482086px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51441711"
+       x="40.117741"
+       y="216.8943"
+       id="text2758"
+       transform="scale(0.92378829,1.0824991)"><tspan
+         sodipodi:role="line"
+         x="40.117741"
+         y="216.8943"
+         id="tspan2756"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.51441711"><tspan
+           x="40.117741"
+           y="216.8943"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.96924686px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#000000;fill-opacity:1;stroke-width:0.27740848"
+           id="tspan2754"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">e-mail | twitter </tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2760"
+       d="M 18.326056,282.72862 H 320.34061"
+       style="fill:none;fill-rule:evenodd;stroke:#c19272;stroke-width:0.95499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(0.9237883,1.0824991)"
+       id="text2768"
+       y="270.3288"
+       x="123.3746"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.59658813px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51441711"
+       xml:space="preserve"><tspan
+         style="fill:#000000;fill-opacity:1;stroke-width:0.51441711"
+         id="tspan2766"
+         y="270.3288"
+         x="123.3746"
+         sodipodi:role="line"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan2764"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.23776436px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#000000;fill-opacity:1;stroke-width:0.27740848"
+           y="270.3288"
+           x="123.3746">(CC) Creative Commons BY-SA 3.0</tspan></tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Capa 2"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient4316-3);fill-opacity:1;stroke:none;stroke-width:0.1195161;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4298-5"
+       width="338.66666"
+       height="29.104166"
+       x="-7.1054274e-15"
+       y="-2.6458333e-06" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14782-3-8-0-6-3-3"
+       d="m 325.8253,0.66267025 c -0.25514,-0.0206999 -0.50035,0.0783 -0.68059,0.31608001 l -2.20673,3.93078004 c -0.22579,0.3699301 -0.22632,0.7257701 0.14261,1.0583799 1.36239,1.0297203 2.77344,1.6926801 2.77344,1.6926801 0.24861,0.1047501 0.46339,0.018201 0.65292,-0.21019 l 1.14723,-1.81825 c 0.18719,-0.3421798 0.0624,-0.5737699 -0.21072,-0.75242 l -1.87997,-1.17812 -0.1208,0.1835801 1.70918,1.48781 -1.09297,1.7464199 -2.46375,-1.66394 2.30836,-3.73761 4.2309,3.0192501 -2.51534,3.8605299 a 6.62853,6.6285232 78.260865 0 0 -5.12273,-1.0956298 l -1.38938,-5.6899702 c 0,0 -2.1812,-0.16519 -2.12847,0.7918 0.0527,0.95699 1.59528,0.29586 1.59528,0.29586 l 1.42822,4.7188401 a 6.62853,6.6285232 78.260865 0 0 -3.07086,1.88424 l -4.48686,-2.80161 c -0.4486,-0.3292901 -1.29407,-0.1819701 -1.56868,0.3123499 l -2.97882,4.8790097 c -0.2528,0.39549 -0.22717,0.84984 0.15325,1.13821 l 3.93078,2.2067 c 0.36994,0.22581 0.72578,0.22633 1.05839,-0.14261 1.02971,-1.36238 1.69267,-2.77341 1.69267,-2.77341 0.10475,-0.24861 0.0183,-0.46341 -0.21018,-0.65291 l -1.81825,-1.14725 c -0.34218,-0.18719 -0.57322,-0.0624 -0.75189,0.21072 l -1.17864,1.87998 0.1836,0.12079 1.48777,-1.70917 1.74644,1.09298 -1.66394,2.46371 -3.73761,-2.30833 3.01924,-4.2314297 4.19471,2.7335097 a 6.62853,6.6285232 78.260865 0 0 -0.70454,4.57517 6.62853,6.6285232 78.260865 0 0 0.0351,0.1442 l -6.45035,1.57508 c 0,0 -0.16521,2.1812 0.79179,2.12848 0.957,-0.0527 0.29586,-1.5953 0.29586,-1.5953 l 5.48563,-1.66021 a 6.62853,6.6285232 78.260865 0 0 1.53728,2.63027 l -3.22143,5.15944 c -0.3293,0.44862 -0.18198,1.2941 0.31234,1.56869 l 4.87899,2.978811 c 0.3955,0.252838 0.84984,0.2272 1.13821,-0.153252 l 2.20673,-3.930769 c 0.22583,-0.36994 0.22633,-0.72577 -0.14261,-1.05839 -1.36239,-1.02972 -2.77344,-1.69268 -2.77344,-1.69268 -0.2486,-0.10475 -0.46339,-0.0183 -0.65288,0.21019 l -1.14726,1.81826 c -0.1872,0.34217 -0.0624,0.57322 0.21071,0.75188 l 1.87997,1.17865 0.12081,-0.18358 -1.70918,-1.48781 1.09299,-1.74642 2.4637,1.66394 -2.30833,3.73761 -4.2309,-3.01925 3.1161,-4.7827 a 6.62853,6.6285232 78.260865 0 0 4.27456,1.00518 l 1.63679,6.702589 c 0,0 2.1812,0.16519 2.12846,-0.7918 -0.0527,-0.956969 -1.59527,-0.295859 -1.59527,-0.295859 l -1.72091,-5.68517 a 6.62853,6.6285232 78.260865 0 0 0.18518,-0.0287 6.62853,6.6285232 78.260865 0 0 2.65584,-1.21537 l 5.00938,3.12781 c 0.4486,0.32927 1.29408,0.18197 1.56869,-0.31236 l 2.97881,-4.87901 c 0.25284,-0.39548 0.2272,-0.84983 -0.15325,-1.13821 l -3.93078,-2.2067 c -0.36994,-0.22582 -0.72578,-0.22633 -1.05838,0.14261 -1.02974,1.36238 -1.69268,2.77341 -1.69268,2.77341 -0.10474,0.24861 -0.0183,0.4634 0.21019,0.65291 l 1.81824,1.14725 c 0.34219,0.1872 0.57322,0.0624 0.7519,-0.21072 l 1.17863,-1.87998 -0.18356,-0.12079 -1.48781,1.70917 -1.74643,-1.09297 1.66393,-2.46372 3.73761,2.30834 -3.01924,4.23089 -4.48151,-2.92028 a 6.62853,6.6285232 78.260865 0 0 1.43407,-4.6486 l 5.97252,-1.45855 c 0,0 0.16518,-2.1811997 -0.79182,-2.1284796 -0.95697,0.0527 -0.29586,1.5952996 -0.29586,1.5952996 l -4.94284,1.49632 a 6.62853,6.6285232 78.260865 0 0 -0.0543,-0.34641 6.62853,6.6285232 78.260865 0 0 -1.48513,-2.9862596 l 2.68081,-4.2931501 c 0.3293,-0.4486 0.18198,-1.29409 -0.31234,-1.56869 l -4.87902,-2.97881006 c -0.1483,-0.0948 -0.30454,-0.15042999 -0.45762,-0.16282998 z m -5.90389,3.83286995 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268003 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7901998 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902001 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.014399 z m 0.51404,1.5612401 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902001 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.79019 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.014401 z m -0.62527,3.6269301 c 0.48247,0.0532 0.96491,0.1068001 1.44738,0.16017 0.18055,0.4111796 0.36113,0.8222796 0.54168,1.2334496 0.38367,-0.30383 1.01116,-0.31017 1.15951,0.23095 0.18055,0.25536 0.36113,0.51087 0.54168,0.76625 0.80058,-0.13552 1.60147,-0.27104 2.40202,-0.40654 0.40384,0.41867 0.80727,0.83718 1.21111,1.2558 0.40237,-0.0189 0.80499,-0.0384 1.20737,-0.0575 0.34597,1.26707 -0.3977,2.47964 -1.11265,3.46517 -0.47697,0.63504 -0.8795,1.31587 -1.19409,2.03802 -0.42064,0.20116 -0.0792,1.35437 -0.62365,0.9509 -0.19535,-0.51159 -0.0489,-1.11767 -0.10906,-1.68256 -0.0257,-0.83956 0.20089,-1.79852 -0.4204,-2.48926 -0.3942,-0.50908 -1.26754,-0.66279 -1.25582,-1.44311 0.0762,-0.64424 0.0736,-1.46084 -0.56031,-1.84007 -0.56824,-0.47113 -1.42642,-0.16129 -1.95609,-0.6891 -0.44,-0.48042 -1.06934,-0.84482 -1.27868,-1.4925995 z m 12.99226,0.4799696 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13409,0.97325 0.69549804,0.66043249 74.163281 0 0 0.92855,-0.1144 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97325 0.69549804,0.66043249 74.163281 0 0 -0.43582,-0.149 z m -1.53355,0.59172 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13462,0.97325 0.69549804,0.66043249 74.163281 0 0 0.928,-0.11441 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97324 0.69549804,0.66043249 74.163281 0 0 -0.4358,-0.149 z m -15.46876,6.16728 a 0.69549809,0.66043254 57.815039 0 0 -0.59491,0.42303 0.69549809,0.66043254 57.815039 0 0 0.40282,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85884,-0.37088 0.69549809,0.66043254 57.815039 0 0 -0.40336,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26339,-0.0522 z m -1.30529,0.99932 a 0.69549809,0.66043254 57.815039 0 0 -0.59492,0.42304 0.69549809,0.66043254 57.815039 0 0 0.40336,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85831,-0.37089 0.69549809,0.66043254 57.815039 0 0 -0.40281,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26394,-0.0521 z m 12.40268,3.4359 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m 0.51404,1.56124 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.0144 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18161619;marker:none;enable-background:accumulate" />
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text2496-6"
+       y="46.991489"
+       x="15.246022"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78006554px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#43319e;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan2494-3"
+         y="46.991489"
+         x="15.246022"
+         sodipodi:role="line"><tspan
+           id="tspan2492-2"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.35551834px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+           y="46.991489"
+           x="15.246022">Diapo Nº1</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2760-7"
+       d="M 11.911588,58.683768 H 326.7551"
+       style="fill:none;fill-rule:evenodd;stroke:#d9bca8;stroke-width:0.95500004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(0.9237883,1.0824991)"
+       id="text2768-6"
+       y="171.34637"
+       x="301.19913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.57316971px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51441711"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.51441711"
+         id="tspan2766-5"
+         y="171.34637"
+         x="183.16295"
+         sodipodi:role="line"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan2764-6"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.34217548px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.27740848"
+           y="171.34637"
+           x="183.16295">Espacio para nota al pie, crédito al autor o licencia (CC) Creative Commons BY-SA 3.0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83081055px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       x="3.906379"
+       y="13.038635"
+       id="text3007"
+       transform="scale(0.92378829,1.0824991)"><tspan
+         sodipodi:role="line"
+         x="3.906379"
+         y="13.038635"
+         id="tspan3005"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"><tspan
+           x="3.906379"
+           y="13.038635"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.85187244px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           id="tspan3003">Título de la charla</tspan></tspan></text>
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text3013"
+       y="24.202669"
+       x="3.9119174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.05980682px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan3011"
+         y="24.202669"
+         x="3.9119174"
+         sodipodi:role="line"><tspan
+           id="tspan3009"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.70413017px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           y="24.202669"
+           x="3.9119174">Autor | Contacto</tspan></tspan></text>
+    <g
+       transform="translate(-6.0135644,-46.292586)"
+       id="g3040">
+      <rect
+         style="opacity:1;fill:url(#linearGradient3017);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95500004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect3015"
+         width="7.7151327"
+         height="7.7151327"
+         x="27.448864"
+         y="119.812" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95500004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m 29.031569,120.52674 2.492516,3.1426 -2.492516,3.14304 h 2.05721 l 2.492515,-3.14304 -2.492515,-3.1426 z"
+         id="rect3019"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text3030"
+       y="81.222847"
+       x="35.279579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan3032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="81.222847"
+         x="35.279579"
+         sodipodi:role="line">Fasdg fdgfd hfghlgkh ldkglñ kgdklñ lñg k lñghl ñg gfh</tspan><tspan
+         id="tspan3034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="94.452011"
+         x="35.279579"
+         sodipodi:role="line">lñkñk l gñl kgk dñlglñghkg gfdhlk dglñk ñlg lñg kg lñhklgf</tspan><tspan
+         id="tspan3050"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="107.68118"
+         x="35.279579"
+         sodipodi:role="line">fsgjfd glkj fdlkgjlkfdsj glj dflkgjlfd jglfdj gldf jlgkj fdg jlfdkj</tspan><tspan
+         id="tspan3052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="120.91035"
+         x="35.279579"
+         sodipodi:role="line">glkfdj glkfj dlk.</tspan><tspan
+         id="tspan3062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="134.13951"
+         x="35.279579"
+         sodipodi:role="line">JAskdjh asdjh sakjdh asjdh kasjhdkj as</tspan></text>
+    <g
+       id="g3058"
+       transform="translate(-6.0135644,6.8758235)">
+      <rect
+         y="119.812"
+         x="27.448864"
+         height="7.7151327"
+         width="7.7151327"
+         id="rect3054"
+         style="opacity:1;fill:url(#linearGradient3060);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95500004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3056"
+         d="m 29.031569,120.52674 2.492516,3.1426 -2.492516,3.14304 h 2.05721 l 2.492515,-3.14304 -2.492515,-3.1426 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95500004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Capa 3"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient4316-3-7);fill-opacity:1;stroke:none;stroke-width:0.1195161;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4298-5-5"
+       width="338.66666"
+       height="29.104166"
+       x="-7.1054274e-15"
+       y="-2.6458333e-06" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14782-3-8-0-6-3-3-3"
+       d="m 325.8253,0.66267025 c -0.25514,-0.0206999 -0.50035,0.0783 -0.68059,0.31608001 l -2.20673,3.93078004 c -0.22579,0.3699301 -0.22632,0.7257701 0.14261,1.0583799 1.36239,1.0297205 2.77344,1.6926801 2.77344,1.6926801 0.24861,0.1047501 0.46339,0.018201 0.65292,-0.2101898 l 1.14723,-1.81825 c 0.18719,-0.3421798 0.0624,-0.5737701 -0.21072,-0.7524202 l -1.87997,-1.17812 -0.1208,0.1835801 1.70918,1.48781 -1.09297,1.7464201 -2.46375,-1.6639402 2.30836,-3.7376099 4.2309,3.01925 -2.51534,3.8605301 a 6.62853,6.6285232 78.260865 0 0 -5.12273,-1.0956298 l -1.38938,-5.6899703 c 0,0 -2.1812,-0.16519 -2.12847,0.7918 0.0527,0.9569899 1.59528,0.2958599 1.59528,0.2958599 l 1.42822,4.7188404 a 6.62853,6.6285232 78.260865 0 0 -3.07086,1.88424 l -4.48686,-2.8016103 c -0.4486,-0.3292901 -1.29407,-0.1819701 -1.56868,0.3123499 l -2.97882,4.8790097 c -0.2528,0.39549 -0.22717,0.84984 0.15325,1.13821 l 3.93078,2.2067 c 0.36994,0.22581 0.72578,0.22633 1.05839,-0.14261 1.02971,-1.36238 1.69267,-2.77341 1.69267,-2.77341 0.10475,-0.24861 0.0183,-0.46341 -0.21018,-0.65291 l -1.81825,-1.14725 c -0.34218,-0.18719 -0.57322,-0.0624 -0.75189,0.21072 l -1.17864,1.87998 0.1836,0.12079 1.48777,-1.70917 1.74644,1.09298 -1.66394,2.46371 -3.73761,-2.30833 3.01924,-4.2314297 4.19471,2.7335097 a 6.62853,6.6285232 78.260865 0 0 -0.70454,4.57517 6.62853,6.6285232 78.260865 0 0 0.0351,0.1442 l -6.45035,1.57508 c 0,0 -0.16521,2.1812 0.79179,2.12848 0.957,-0.0527 0.29586,-1.5953 0.29586,-1.5953 l 5.48563,-1.66021 a 6.62853,6.6285232 78.260865 0 0 1.53728,2.63027 l -3.22143,5.15944 c -0.3293,0.44862 -0.18198,1.2941 0.31234,1.56869 l 4.87899,2.978811 c 0.3955,0.252838 0.84984,0.2272 1.13821,-0.153252 l 2.20673,-3.930769 c 0.22583,-0.36994 0.22633,-0.72577 -0.14261,-1.05839 -1.36239,-1.02972 -2.77344,-1.69268 -2.77344,-1.69268 -0.2486,-0.10475 -0.46339,-0.0183 -0.65288,0.21019 l -1.14726,1.81826 c -0.1872,0.34217 -0.0624,0.57322 0.21071,0.75188 l 1.87997,1.17865 0.12081,-0.18358 -1.70918,-1.48781 1.09299,-1.74642 2.4637,1.66394 -2.30833,3.73761 -4.2309,-3.01925 3.1161,-4.7827 a 6.62853,6.6285232 78.260865 0 0 4.27456,1.00518 l 1.63679,6.702589 c 0,0 2.1812,0.16519 2.12846,-0.7918 -0.0527,-0.956969 -1.59527,-0.295859 -1.59527,-0.295859 l -1.72091,-5.68517 a 6.62853,6.6285232 78.260865 0 0 0.18518,-0.0287 6.62853,6.6285232 78.260865 0 0 2.65584,-1.21537 l 5.00938,3.12781 c 0.4486,0.32927 1.29408,0.18197 1.56869,-0.31236 l 2.97881,-4.87901 c 0.25284,-0.39548 0.2272,-0.84983 -0.15325,-1.13821 l -3.93078,-2.2067 c -0.36994,-0.22582 -0.72578,-0.22633 -1.05838,0.14261 -1.02974,1.36238 -1.69268,2.77341 -1.69268,2.77341 -0.10474,0.24861 -0.0183,0.4634 0.21019,0.65291 l 1.81824,1.14725 c 0.34219,0.1872 0.57322,0.0624 0.7519,-0.21072 l 1.17863,-1.87998 -0.18356,-0.12079 -1.48781,1.70917 -1.74643,-1.09297 1.66393,-2.46372 3.73761,2.30834 -3.01924,4.23089 -4.48151,-2.92028 a 6.62853,6.6285232 78.260865 0 0 1.43407,-4.6486 l 5.97252,-1.45855 c 0,0 0.16518,-2.1811995 -0.79182,-2.1284794 -0.95697,0.0527 -0.29586,1.5952994 -0.29586,1.5952994 l -4.94284,1.49632 a 6.62853,6.6285232 78.260865 0 0 -0.0543,-0.34641 6.62853,6.6285232 78.260865 0 0 -1.48513,-2.9862593 l 2.68081,-4.2931504 c 0.3293,-0.4486 0.18198,-1.29409 -0.31234,-1.56869 l -4.879,-2.97881006 c -0.14833,-0.0948 -0.30457,-0.15042999 -0.45763,-0.16282998 z m -5.90389,3.83286995 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268005 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7901996 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902001 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.014399 z m 0.51404,1.5612401 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902003 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.5124402 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.7901898 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.014401 z m -0.62527,3.6269303 c 0.48247,0.0532 0.96491,0.1068001 1.44738,0.16017 0.18055,0.4111794 0.36113,0.8222794 0.54168,1.2334494 0.38367,-0.30383 1.01116,-0.31017 1.15951,0.23095 0.18055,0.25536 0.36113,0.51087 0.54168,0.76625 0.80058,-0.13552 1.60147,-0.27104 2.40202,-0.40654 0.40384,0.41867 0.80727,0.83718 1.21111,1.2558 0.40237,-0.0189 0.80499,-0.0384 1.20737,-0.0575 0.34597,1.26707 -0.3977,2.47964 -1.11265,3.46517 -0.47697,0.63504 -0.8795,1.31587 -1.19409,2.03802 -0.42064,0.20116 -0.0792,1.35437 -0.62365,0.9509 -0.19535,-0.51159 -0.0489,-1.11767 -0.10906,-1.68256 -0.0257,-0.83956 0.20089,-1.79852 -0.4204,-2.48926 -0.3942,-0.50908 -1.26754,-0.66279 -1.25582,-1.44311 0.0762,-0.64424 0.0736,-1.46084 -0.56031,-1.84007 -0.56824,-0.47113 -1.42642,-0.16129 -1.95609,-0.6891 -0.44,-0.48042 -1.06934,-0.84482 -1.27868,-1.4925993 z m 12.99226,0.4799694 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13409,0.97325 0.69549804,0.66043249 74.163281 0 0 0.92855,-0.1144 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97325 0.69549804,0.66043249 74.163281 0 0 -0.43582,-0.149 z m -1.53355,0.59172 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13462,0.97325 0.69549804,0.66043249 74.163281 0 0 0.928,-0.11441 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97324 0.69549804,0.66043249 74.163281 0 0 -0.4358,-0.149 z m -15.46876,6.16728 a 0.69549809,0.66043254 57.815039 0 0 -0.59491,0.42303 0.69549809,0.66043254 57.815039 0 0 0.40282,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85884,-0.37088 0.69549809,0.66043254 57.815039 0 0 -0.40336,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26339,-0.0522 z m -1.30529,0.99932 a 0.69549809,0.66043254 57.815039 0 0 -0.59492,0.42304 0.69549809,0.66043254 57.815039 0 0 0.40336,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85831,-0.37089 0.69549809,0.66043254 57.815039 0 0 -0.40281,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26394,-0.0521 z m 12.40268,3.4359 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m 0.51404,1.56124 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.0144 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1816162;marker:none;enable-background:accumulate" />
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text2496-6-5"
+       y="46.991486"
+       x="15.246022"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78006554px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#43319e;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan2494-3-6"
+         y="46.991486"
+         x="15.246022"
+         sodipodi:role="line"><tspan
+           id="tspan2492-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.35551834px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+           y="46.991486"
+           x="15.246022">Diapo con imágenes</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2760-7-9"
+       d="M 11.911588,58.683768 H 195.05607"
+       style="fill:none;fill-rule:evenodd;stroke:#d9bca8;stroke-width:0.95499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83081055px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       x="3.906379"
+       y="13.038635"
+       id="text3007-0"
+       transform="scale(0.92378829,1.0824991)"><tspan
+         sodipodi:role="line"
+         x="3.906379"
+         y="13.038635"
+         id="tspan3005-9"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"><tspan
+           x="3.906379"
+           y="13.038635"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.85187244px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           id="tspan3003-3">Título de la charla</tspan></tspan></text>
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text3013-6"
+       y="24.202669"
+       x="3.9119174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.05980682px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan3011-0"
+         y="24.202669"
+         x="3.9119174"
+         sodipodi:role="line"><tspan
+           id="tspan3009-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.70413017px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           y="24.202669"
+           x="3.9119174">Autor | Contacto</tspan></tspan></text>
+    <text
+       id="text3030-8"
+       y="81.222855"
+       x="14.112914"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan3032-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="81.222855"
+         x="14.112914"
+         sodipodi:role="line">Fasdg fdgfd hfghlgkh ldkglñ kgdklñ lñg k</tspan><tspan
+         id="tspan3034-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="94.452019"
+         x="14.112914"
+         sodipodi:role="line">lñghl ñg gfh lñkñk l gñl kgk dñlglñghkg gfd</tspan><tspan
+         id="tspan3050-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="107.68119"
+         x="14.112914"
+         sodipodi:role="line">hlk dglñk ñlg lñg kg lñhklgf fs gjfd glkj fdlk</tspan><tspan
+         id="tspan1056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="120.91035"
+         x="14.112914"
+         sodipodi:role="line">gjlkfdsj glj dflkgjlfd jglfdj gldf jlgkj fdg jlfdkj</tspan><tspan
+         id="tspan3062-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="134.13953"
+         x="14.112914"
+         sodipodi:role="line">glkfdj glkfj dlk JAskdjh asdjh sakjdh asjdh</tspan><tspan
+         id="tspan1060"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="147.36868"
+         x="14.112914"
+         sodipodi:role="line"> kasjhdkj as</tspan></text>
+    <rect
+       y="29.108942"
+       x="230.18921"
+       height="80.685593"
+       width="108.46511"
+       id="rect1040"
+       style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95499998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95499998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1042"
+       width="108.46511"
+       height="80.685593"
+       x="230.18921"
+       y="109.79453" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Capa 4"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text2496-6-5-9"
+       y="46.991486"
+       x="234.75298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78006554px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#43319e;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan2494-3-6-2"
+         y="46.991486"
+         x="234.75298"
+         sodipodi:role="line"><tspan
+           id="tspan2492-2-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.35551834px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#43319e;fill-opacity:1;stroke-width:0.34253359"
+           y="46.991486"
+           x="234.75298"> imágenes</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2760-7-9-8"
+       d="M 221.01739,58.683769 H 327.2108"
+       style="fill:none;fill-rule:evenodd;stroke:#d9bca8;stroke-width:0.95500004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3030-8-9"
+       y="130.59439"
+       x="219.89157"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan1162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="130.59439"
+         x="219.89157"
+         sodipodi:role="line">No olvidarse de ponerle</tspan><tspan
+         id="tspan1175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="143.21655"
+         x="219.89157"
+         sodipodi:role="line">referencias a las</tspan><tspan
+         id="tspan1060-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="155.83871"
+         x="219.89157"
+         sodipodi:role="line">fotos. Con créditos</tspan><tspan
+         id="tspan1199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="168.46089"
+         x="219.89157"
+         sodipodi:role="line">a terceros de ser</tspan><tspan
+         id="tspan1201"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.09773254px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="181.08305"
+         x="219.89157"
+         sodipodi:role="line">necesario.</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient4316-3-7-3);fill-opacity:1;stroke:none;stroke-width:0.1195161;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4298-5-5-4"
+       width="338.66666"
+       height="29.104166"
+       x="-7.1054274e-15"
+       y="-2.6458333e-06" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14782-3-8-0-6-3-3-3-7"
+       d="m 325.8253,0.66267025 c -0.25514,-0.0206999 -0.50035,0.0783 -0.68059,0.31608001 l -2.20673,3.93078004 c -0.22579,0.3699301 -0.22632,0.7257701 0.14261,1.0583799 1.36239,1.0297205 2.77344,1.6926801 2.77344,1.6926801 0.24861,0.1047501 0.46339,0.018201 0.65292,-0.2101898 l 1.14723,-1.81825 c 0.18719,-0.3421798 0.0624,-0.5737701 -0.21072,-0.7524202 l -1.87997,-1.17812 -0.1208,0.1835801 1.70918,1.48781 -1.09297,1.7464201 -2.46375,-1.6639402 2.30836,-3.7376098 4.2309,3.0192499 -2.51534,3.8605301 a 6.62853,6.6285232 78.260865 0 0 -5.12273,-1.0956298 l -1.38938,-5.6899702 c 0,0 -2.1812,-0.16519 -2.12847,0.7918 0.0527,0.9569898 1.59528,0.2958598 1.59528,0.2958598 l 1.42822,4.7188406 a 6.62853,6.6285232 78.260865 0 0 -3.07086,1.88424 l -4.48686,-2.8016105 c -0.4486,-0.3292901 -1.29407,-0.1819701 -1.56868,0.3123499 l -2.97882,4.8790097 c -0.2528,0.39549 -0.22717,0.84984 0.15325,1.13821 l 3.93078,2.2067 c 0.36994,0.22581 0.72578,0.22633 1.05839,-0.14261 1.02971,-1.36238 1.69267,-2.77341 1.69267,-2.77341 0.10475,-0.24861 0.0183,-0.46341 -0.21018,-0.65291 l -1.81825,-1.14725 c -0.34218,-0.18719 -0.57322,-0.0624 -0.75189,0.21072 l -1.17864,1.87998 0.1836,0.12079 1.48777,-1.70917 1.74644,1.09298 -1.66394,2.46371 -3.73761,-2.30833 3.01924,-4.2314297 4.19471,2.7335097 a 6.62853,6.6285232 78.260865 0 0 -0.70454,4.57517 6.62853,6.6285232 78.260865 0 0 0.0351,0.1442 l -6.45035,1.57508 c 0,0 -0.16521,2.1812 0.79179,2.12848 0.957,-0.0527 0.29586,-1.5953 0.29586,-1.5953 l 5.48563,-1.66021 a 6.62853,6.6285232 78.260865 0 0 1.53728,2.63027 l -3.22143,5.15944 c -0.3293,0.44862 -0.18198,1.2941 0.31234,1.56869 l 4.87899,2.978811 c 0.3955,0.252838 0.84984,0.2272 1.13821,-0.153252 l 2.20673,-3.930769 c 0.22583,-0.36994 0.22633,-0.72577 -0.14261,-1.05839 -1.36239,-1.02972 -2.77344,-1.69268 -2.77344,-1.69268 -0.2486,-0.10475 -0.46339,-0.0183 -0.65288,0.21019 l -1.14726,1.81826 c -0.1872,0.34217 -0.0624,0.57322 0.21071,0.75188 l 1.87997,1.17865 0.12081,-0.18358 -1.70918,-1.48781 1.09299,-1.74642 2.4637,1.66394 -2.30833,3.73761 -4.2309,-3.01925 3.1161,-4.7827 a 6.62853,6.6285232 78.260865 0 0 4.27456,1.00518 l 1.63679,6.702589 c 0,0 2.1812,0.16519 2.12846,-0.7918 -0.0527,-0.956969 -1.59527,-0.295859 -1.59527,-0.295859 l -1.72091,-5.68517 a 6.62853,6.6285232 78.260865 0 0 0.18518,-0.0287 6.62853,6.6285232 78.260865 0 0 2.65584,-1.21537 l 5.00938,3.12781 c 0.4486,0.32927 1.29408,0.18197 1.56869,-0.31236 l 2.97881,-4.87901 c 0.25284,-0.39548 0.2272,-0.84983 -0.15325,-1.13821 l -3.93078,-2.2067 c -0.36994,-0.22582 -0.72578,-0.22633 -1.05838,0.14261 -1.02974,1.36238 -1.69268,2.77341 -1.69268,2.77341 -0.10474,0.24861 -0.0183,0.4634 0.21019,0.65291 l 1.81824,1.14725 c 0.34219,0.1872 0.57322,0.0624 0.7519,-0.21072 l 1.17863,-1.87998 -0.18356,-0.12079 -1.48781,1.70917 -1.74643,-1.09297 1.66393,-2.46372 3.73761,2.30834 -3.01924,4.23089 -4.48151,-2.92028 a 6.62853,6.6285232 78.260865 0 0 1.43407,-4.6486 l 5.97252,-1.45855 c 0,0 0.16518,-2.1811995 -0.79182,-2.1284794 -0.95697,0.0527 -0.29586,1.5952994 -0.29586,1.5952994 l -4.94284,1.49632 a 6.62853,6.6285232 78.260865 0 0 -0.0543,-0.34641 6.62853,6.6285232 78.260865 0 0 -1.48513,-2.9862591 l 2.68081,-4.2931506 c 0.3293,-0.4486 0.18198,-1.29409 -0.31234,-1.56869 l -4.879,-2.97881006 c -0.14833,-0.0948 -0.30457,-0.15042999 -0.45763,-0.16282998 z m -5.90389,3.83286995 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268005 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7901996 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51244 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902001 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.014399 z m 0.51404,1.5612401 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902003 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.5124402 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.7901898 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.014401 z m -0.62527,3.6269303 c 0.48247,0.0532 0.96491,0.1068001 1.44738,0.16017 0.18055,0.4111794 0.36113,0.8222794 0.54168,1.2334494 0.38367,-0.30383 1.01116,-0.31017 1.15951,0.23095 0.18055,0.25536 0.36113,0.51087 0.54168,0.76625 0.80058,-0.13552 1.60147,-0.27104 2.40202,-0.40654 0.40384,0.41867 0.80727,0.83718 1.21111,1.2558 0.40237,-0.0189 0.80499,-0.0384 1.20737,-0.0575 0.34597,1.26707 -0.3977,2.47964 -1.11265,3.46517 -0.47697,0.63504 -0.8795,1.31587 -1.19409,2.03802 -0.42064,0.20116 -0.0792,1.35437 -0.62365,0.9509 -0.19535,-0.51159 -0.0489,-1.11767 -0.10906,-1.68256 -0.0257,-0.83956 0.20089,-1.79852 -0.4204,-2.48926 -0.3942,-0.50908 -1.26754,-0.66279 -1.25582,-1.44311 0.0762,-0.64424 0.0736,-1.46084 -0.56031,-1.84007 -0.56824,-0.47113 -1.42642,-0.16129 -1.95609,-0.6891 -0.44,-0.48042 -1.06934,-0.84482 -1.27868,-1.4925993 z m 12.99226,0.4799694 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13409,0.97325 0.69549804,0.66043249 74.163281 0 0 0.92855,-0.1144 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97325 0.69549804,0.66043249 74.163281 0 0 -0.43582,-0.149 z m -1.53355,0.59172 a 0.69549804,0.66043249 74.163281 0 0 -0.4922,0.2634 0.69549804,0.66043249 74.163281 0 0 0.13462,0.97325 0.69549804,0.66043249 74.163281 0 0 0.928,-0.11441 0.69549804,0.66043249 74.163281 0 0 -0.13462,-0.97324 0.69549804,0.66043249 74.163281 0 0 -0.4358,-0.149 z m -15.46876,6.16728 a 0.69549809,0.66043254 57.815039 0 0 -0.59491,0.42303 0.69549809,0.66043254 57.815039 0 0 0.40282,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85884,-0.37088 0.69549809,0.66043254 57.815039 0 0 -0.40336,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26339,-0.0522 z m -1.30529,0.99932 a 0.69549809,0.66043254 57.815039 0 0 -0.59492,0.42304 0.69549809,0.66043254 57.815039 0 0 0.40336,0.89609 0.69549809,0.66043254 57.815039 0 0 0.85831,-0.37089 0.69549809,0.66043254 57.815039 0 0 -0.40281,-0.89609 0.69549809,0.66043254 57.815039 0 0 -0.26394,-0.0521 z m 12.40268,3.4359 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49967,0.7902 0.66043257,0.69549804 66.515257 0 0 0.83809,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49966,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.116,-0.0144 z m 0.51404,1.56124 a 0.66043257,0.69549804 66.515257 0 0 -0.7221,0.5268 0.66043257,0.69549804 66.515257 0 0 0.49966,0.7902 0.66043257,0.69549804 66.515257 0 0 0.8381,-0.51243 0.66043257,0.69549804 66.515257 0 0 -0.49967,-0.7902 0.66043257,0.69549804 66.515257 0 0 -0.11599,-0.0144 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1816162;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83081055px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       x="3.906379"
+       y="13.038635"
+       id="text3007-0-8"
+       transform="scale(0.92378829,1.0824991)"><tspan
+         sodipodi:role="line"
+         x="3.906379"
+         y="13.038635"
+         id="tspan3005-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"><tspan
+           x="3.906379"
+           y="13.038635"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.85187244px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           id="tspan3003-3-5">Título de la charla</tspan></tspan></text>
+    <text
+       transform="scale(0.92378829,1.0824991)"
+       id="text3013-6-0"
+       y="24.202669"
+       x="3.9119174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.05980682px;line-height:0.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34253359"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+         id="tspan3011-0-3"
+         y="24.202669"
+         x="3.9119174"
+         sodipodi:role="line"><tspan
+           id="tspan3009-6-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.70413017px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.34253359"
+           y="24.202669"
+           x="3.9119174">Autor | Contacto</tspan></tspan></text>
+    <rect
+       y="35.561588"
+       x="6.8932829"
+       height="148.96872"
+       width="200.25766"
+       id="rect1040-1"
+       style="display:inline;opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9550001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <rect
+       y="188.38335"
+       x="0.52916664"
+       height="1.5875"
+       width="337.60834"
+       id="rect1203"
+       style="opacity:1;fill:url(#linearGradient1205);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1207"
+       d="m 9.9814997,186.96195 -1.693111,3.23192 -1.693111,-3.23192 z"
+       style="fill:#43319e;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <script
+     ns1:version="1.5.5"
+     id="JessyInk">// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Set onload event handler.
+window.onload = jessyInkInit;
+
+// Creating a namespace dictionary. The standard Inkscape namespaces are taken from inkex.py.
+var NSS = new Object();
+NSS['sodipodi']='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd';
+NSS['cc']='http://web.resource.org/cc/';
+NSS['svg']='http://www.w3.org/2000/svg';
+NSS['dc']='http://purl.org/dc/elements/1.1/';
+NSS['rdf']='http://www.w3.org/1999/02/22-rdf-syntax-ns#';
+NSS['inkscape']='http://www.inkscape.org/namespaces/inkscape';
+NSS['xlink']='http://www.w3.org/1999/xlink';
+NSS['xml']='http://www.w3.org/XML/1998/namespace';
+NSS['jessyink']='https://launchpad.net/jessyink';
+
+// Keycodes.
+var LEFT_KEY = 37; // cursor left keycode
+var UP_KEY = 38; // cursor up keycode
+var RIGHT_KEY = 39; // cursor right keycode
+var DOWN_KEY = 40; // cursor down keycode
+var PAGE_UP_KEY = 33; // page up keycode
+var PAGE_DOWN_KEY = 34; // page down keycode
+var HOME_KEY = 36; // home keycode
+var END_KEY = 35; // end keycode
+var ENTER_KEY = 13; // next slide
+var SPACE_KEY = 32;
+var ESCAPE_KEY = 27;
+
+// Presentation modes.
+var SLIDE_MODE = 1;
+var INDEX_MODE = 2;
+var DRAWING_MODE = 3;
+
+// Mouse handler actions.
+var MOUSE_UP = 1;
+var MOUSE_DOWN = 2;
+var MOUSE_MOVE = 3;
+var MOUSE_WHEEL = 4;
+
+// Parameters.
+var ROOT_NODE = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;svg&quot;)[0];
+var HEIGHT = 0;
+var WIDTH = 0;
+var INDEX_COLUMNS_DEFAULT = 4;
+var INDEX_COLUMNS = INDEX_COLUMNS_DEFAULT;
+var INDEX_OFFSET = 0;
+var STATE_START = -1;
+var STATE_END = -2;
+var BACKGROUND_COLOR = null;
+var slides = new Array();
+
+// Initialisation.
+var currentMode = SLIDE_MODE;
+var masterSlide = null;
+var activeSlide = 0;
+var activeEffect = 0;
+var timeStep = 30; // 40 ms equal 25 frames per second.
+var lastFrameTime = null;
+var processingEffect = false;
+var transCounter = 0;
+var effectArray = 0;
+var defaultTransitionInDict = new Object();
+defaultTransitionInDict[&quot;name&quot;] = &quot;appear&quot;;
+var defaultTransitionOutDict = new Object();
+defaultTransitionOutDict[&quot;name&quot;] = &quot;appear&quot;;
+var jessyInkInitialised = false;
+
+// Initialise char and key code dictionaries.
+var charCodeDictionary = getDefaultCharCodeDictionary();
+var keyCodeDictionary = getDefaultKeyCodeDictionary();
+
+// Initialise mouse handler dictionary.
+var mouseHandlerDictionary = getDefaultMouseHandlerDictionary();
+
+var progress_bar_visible = false;
+var timer_elapsed = 0;
+var timer_start = timer_elapsed;
+var timer_duration = 15; // 15 minutes
+
+var history_counter = 0;
+var history_original_elements = new Array();
+var history_presentation_elements = new Array();
+
+var mouse_original_path = null;
+var mouse_presentation_path = null;
+var mouse_last_x = -1;
+var mouse_last_y = -1;
+var mouse_min_dist_sqr = 3 * 3;
+var path_colour = &quot;red&quot;;
+var path_width_default = 3;
+var path_width = path_width_default;
+var path_paint_width = path_width;
+
+var number_of_added_slides = 0;
+
+/** Initialisation function.
+ *  The whole presentation is set-up in this function.
+ */
+function jessyInkInit()
+{
+	// Make sure we only execute this code once. Double execution can occur if the onload event handler is set
+	// in the main svg tag as well (as was recommended in earlier versions). Executing this function twice does
+	// not lead to any problems, but it takes more time.
+	if (jessyInkInitialised)
+		return;
+
+	// Making the presentation scaleable.
+	var VIEWBOX = ROOT_NODE.getAttribute(&quot;viewBox&quot;);
+
+	if (VIEWBOX)
+	{
+		WIDTH = ROOT_NODE.viewBox.animVal.width;
+		HEIGHT = ROOT_NODE.viewBox.animVal.height;
+	}
+	else
+	{
+		HEIGHT = parseFloat(ROOT_NODE.getAttribute(&quot;height&quot;));
+		WIDTH = parseFloat(ROOT_NODE.getAttribute(&quot;width&quot;));
+		ROOT_NODE.setAttribute(&quot;viewBox&quot;, &quot;0 0 &quot; + WIDTH + &quot; &quot; + HEIGHT);
+	}
+
+	ROOT_NODE.setAttribute(&quot;width&quot;, &quot;100%&quot;);
+	ROOT_NODE.setAttribute(&quot;height&quot;, &quot;100%&quot;);
+
+	// Setting the background color.
+	var namedViews = document.getElementsByTagNameNS(NSS[&quot;sodipodi&quot;], &quot;namedview&quot;);
+
+	for (var counter = 0; counter &lt; namedViews.length; counter++)
+	{
+		if (namedViews[counter].hasAttribute(&quot;id&quot;) &amp;&amp; namedViews[counter].hasAttribute(&quot;pagecolor&quot;))
+		{
+			if (namedViews[counter].getAttribute(&quot;id&quot;) == &quot;base&quot;)
+			{
+				BACKGROUND_COLOR = namedViews[counter].getAttribute(&quot;pagecolor&quot;);
+				var newAttribute = &quot;background-color:&quot; + BACKGROUND_COLOR + &quot;;&quot;;
+
+				if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+					newAttribute += ROOT_NODE.getAttribute(&quot;style&quot;);
+
+				ROOT_NODE.setAttribute(&quot;style&quot;, newAttribute);
+			}
+		}
+	}
+
+	// Defining clip-path.
+	var defsNodes = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;defs&quot;);
+
+	if (defsNodes.length &gt; 0)
+	{
+		var existingClipPath = document.getElementById(&quot;jessyInkSlideClipPath&quot;);
+
+		if (!existingClipPath)
+		{
+			var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+			var clipPath = document.createElementNS(NSS[&quot;svg&quot;], &quot;clipPath&quot;);
+
+			rectNode.setAttribute(&quot;x&quot;, 0);
+			rectNode.setAttribute(&quot;y&quot;, 0);
+			rectNode.setAttribute(&quot;width&quot;, WIDTH);
+			rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+
+			clipPath.setAttribute(&quot;id&quot;, &quot;jessyInkSlideClipPath&quot;);
+			clipPath.setAttribute(&quot;clipPathUnits&quot;, &quot;userSpaceOnUse&quot;);
+
+			clipPath.appendChild(rectNode);
+			defsNodes[0].appendChild(clipPath);
+		}
+	}
+
+	// Making a list of the slide and finding the master slide.
+	var nodes = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	var tempSlides = new Array();
+	var existingJessyInkPresentationLayer = null;
+
+	for (var counter = 0; counter &lt; nodes.length; counter++)
+	{
+		if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;) &amp;&amp; (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;) == &quot;layer&quot;))
+		{
+			if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;) &amp;&amp; nodes[counter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;masterSlide&quot;) == &quot;masterSlide&quot;)
+				masterSlide = nodes[counter];
+			else if (nodes[counter].getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;) &amp;&amp; nodes[counter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;presentationLayer&quot;) == &quot;presentationLayer&quot;)
+				existingJessyInkPresentationLayer = nodes[counter];
+			else
+				tempSlides.push(nodes[counter].getAttribute(&quot;id&quot;));
+		}
+		else if (nodes[counter].getAttributeNS(NSS['jessyink'], 'element'))
+		{
+			handleElement(nodes[counter]);
+		}
+	}
+
+	// Hide master slide set default transitions.
+	if (masterSlide)
+	{
+		masterSlide.style.display = &quot;none&quot;;
+
+		if (masterSlide.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;))
+			defaultTransitionInDict = propStrToDict(masterSlide.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;));
+
+		if (masterSlide.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;))
+			defaultTransitionOutDict = propStrToDict(masterSlide.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;));
+	}
+
+	if (existingJessyInkPresentationLayer != null)
+	{
+		existingJessyInkPresentationLayer.parentNode.removeChild(existingJessyInkPresentationLayer);
+	}
+
+	// Set start slide.
+	var hashObj = new LocationHash(window.location.hash);
+
+	activeSlide = hashObj.slideNumber;
+	activeEffect = hashObj.effectNumber;
+
+	if (activeSlide &lt; 0)
+		activeSlide = 0;
+	else if (activeSlide &gt;= tempSlides.length)
+		activeSlide = tempSlides.length - 1;
+
+	var originalNode = document.getElementById(tempSlides[counter]);
+
+	var JessyInkPresentationLayer = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;JessyInk Presentation Layer&quot;);
+	JessyInkPresentationLayer.setAttributeNS(NSS[&quot;jessyink&quot;], &quot;presentationLayer&quot;, &quot;presentationLayer&quot;);
+	JessyInkPresentationLayer.setAttribute(&quot;id&quot;, &quot;jessyink_presentation_layer&quot;);
+	JessyInkPresentationLayer.style.display = &quot;inherit&quot;;
+	ROOT_NODE.appendChild(JessyInkPresentationLayer);
+
+	// Gathering all the information about the transitions and effects of the slides, set the background
+	// from the master slide and substitute the auto-texts.
+	for (var counter = 0; counter &lt; tempSlides.length; counter++)
+	{
+		var originalNode = document.getElementById(tempSlides[counter]);
+		originalNode.style.display = &quot;none&quot;;
+		var node = suffixNodeIds(originalNode.cloneNode(true), &quot;_&quot; + counter);
+		JessyInkPresentationLayer.appendChild(node);
+		slides[counter] = new Object();
+		slides[counter][&quot;original_element&quot;] = originalNode;
+		slides[counter][&quot;element&quot;] = node;
+
+		// Set build in transition.
+		slides[counter][&quot;transitionIn&quot;] = new Object();
+
+		var dict;
+
+		if (node.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;))
+			dict = propStrToDict(node.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionIn&quot;));
+		else
+			dict = defaultTransitionInDict;
+
+		slides[counter][&quot;transitionIn&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+		slides[counter][&quot;transitionIn&quot;][&quot;options&quot;] = new Object();
+
+		for (key in dict)
+			if (key != &quot;name&quot;)
+				slides[counter][&quot;transitionIn&quot;][&quot;options&quot;][key] = dict[key];
+
+		// Set build out transition.
+		slides[counter][&quot;transitionOut&quot;] = new Object();
+
+		if (node.hasAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;))
+			dict = propStrToDict(node.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;transitionOut&quot;));
+		else
+			dict = defaultTransitionOutDict;
+
+		slides[counter][&quot;transitionOut&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+		slides[counter][&quot;transitionOut&quot;][&quot;options&quot;] = new Object();
+
+		for (key in dict)
+			if (key != &quot;name&quot;)
+				slides[counter][&quot;transitionOut&quot;][&quot;options&quot;][key] = dict[key];
+
+		// Copy master slide content.
+		if (masterSlide)
+		{
+			var clonedNode = suffixNodeIds(masterSlide.cloneNode(true), &quot;_&quot; + counter);
+			clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+			clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+			clonedNode.style.display = &quot;inherit&quot;;
+
+			node.insertBefore(clonedNode, node.firstChild);
+		}
+
+		// Setting clip path.
+		node.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+
+		// Substitute auto texts.
+		substituteAutoTexts(node, node.getAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;), counter + 1, tempSlides.length);
+
+		node.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+		node.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+
+		// Set effects.
+		var tempEffects = new Array();
+		var groups = new Object();
+
+		for (var IOCounter = 0; IOCounter &lt;= 1; IOCounter++)
+		{
+			var propName = &quot;&quot;;
+			var dir = 0;
+
+			if (IOCounter == 0)
+			{
+				propName = &quot;effectIn&quot;;
+				dir = 1;
+			}
+			else if (IOCounter == 1)
+			{
+				propName = &quot;effectOut&quot;;
+				dir = -1;
+			}
+
+			var effects = getElementsByPropertyNS(node, NSS[&quot;jessyink&quot;], propName);
+
+			for (var effectCounter = 0; effectCounter &lt; effects.length; effectCounter++)
+			{
+				var element = document.getElementById(effects[effectCounter]);
+				var dict = propStrToDict(element.getAttributeNS(NSS[&quot;jessyink&quot;], propName));
+
+				// Put every element that has an effect associated with it, into its own group.
+				// Unless of course, we already put it into its own group.
+				if (!(groups[element.id]))
+				{
+					var newGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+					element.parentNode.insertBefore(newGroup, element);
+					newGroup.appendChild(element.parentNode.removeChild(element));
+					groups[element.id] = newGroup;
+				}
+
+				var effectDict = new Object();
+
+				effectDict[&quot;effect&quot;] = dict[&quot;name&quot;];
+				effectDict[&quot;dir&quot;] = dir;
+				effectDict[&quot;element&quot;] = groups[element.id];
+
+				for (var option in dict)
+				{
+					if ((option != &quot;name&quot;) &amp;&amp; (option != &quot;order&quot;))
+					{
+						if (!effectDict[&quot;options&quot;])
+							effectDict[&quot;options&quot;] = new Object();
+
+						effectDict[&quot;options&quot;][option] = dict[option];
+					}
+				}
+
+				if (!tempEffects[dict[&quot;order&quot;]])
+					tempEffects[dict[&quot;order&quot;]] = new Array();
+
+				tempEffects[dict[&quot;order&quot;]][tempEffects[dict[&quot;order&quot;]].length] = effectDict;
+			}
+		}
+
+		// Make invisible, but keep in rendering tree to ensure that bounding box can be calculated.
+		node.setAttribute(&quot;opacity&quot;,0);
+		node.style.display = &quot;inherit&quot;;
+
+		// Create a transform group.
+		var transformGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+		// Add content to transform group.
+		while (node.firstChild)
+			transformGroup.appendChild(node.firstChild);
+
+		// Transfer the transform attribute from the node to the transform group.
+		if (node.getAttribute(&quot;transform&quot;))
+		{
+			transformGroup.setAttribute(&quot;transform&quot;, node.getAttribute(&quot;transform&quot;));
+			node.removeAttribute(&quot;transform&quot;);
+		}
+
+		// Create a view group.
+		var viewGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+		viewGroup.appendChild(transformGroup);
+		slides[counter][&quot;viewGroup&quot;] = node.appendChild(viewGroup);
+
+		// Insert background.
+		if (BACKGROUND_COLOR != null)
+		{
+			var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+
+			rectNode.setAttribute(&quot;x&quot;, 0);
+			rectNode.setAttribute(&quot;y&quot;, 0);
+			rectNode.setAttribute(&quot;width&quot;, WIDTH);
+			rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+			rectNode.setAttribute(&quot;id&quot;, &quot;jessyInkBackground&quot; + counter);
+			rectNode.setAttribute(&quot;fill&quot;, BACKGROUND_COLOR);
+
+			slides[counter][&quot;viewGroup&quot;].insertBefore(rectNode, slides[counter][&quot;viewGroup&quot;].firstChild);
+		}
+
+		// Set views.
+		var tempViews = new Array();
+		var views = getElementsByPropertyNS(node, NSS[&quot;jessyink&quot;], &quot;view&quot;);
+		var matrixOld = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+
+		// Set initial view even if there are no other views.
+		slides[counter][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrixOld.toAttribute());
+		slides[counter].initialView = matrixOld.toAttribute();
+
+		for (var viewCounter = 0; viewCounter &lt; views.length; viewCounter++)
+		{
+			var element = document.getElementById(views[viewCounter]);
+			var dict = propStrToDict(element.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;view&quot;));
+
+			if (dict[&quot;order&quot;] == 0)
+			{
+				matrixOld = pointMatrixToTransformation(rectToMatrix(element)).mult((new matrixSVG()).fromSVGMatrix(slides[counter].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(element.parentNode.getScreenCTM())).inv());
+				slides[counter].initialView = matrixOld.toAttribute();
+			}
+			else
+			{
+				var effectDict = new Object();
+
+				effectDict[&quot;effect&quot;] = dict[&quot;name&quot;];
+				effectDict[&quot;dir&quot;] = 1;
+				effectDict[&quot;element&quot;] = slides[counter][&quot;viewGroup&quot;];
+				effectDict[&quot;order&quot;] = dict[&quot;order&quot;];
+
+				for (var option in dict)
+				{
+					if ((option != &quot;name&quot;) &amp;&amp; (option != &quot;order&quot;))
+					{
+						if (!effectDict[&quot;options&quot;])
+							effectDict[&quot;options&quot;] = new Object();
+
+						effectDict[&quot;options&quot;][option] = dict[option];
+					}
+				}
+
+				effectDict[&quot;options&quot;][&quot;matrixNew&quot;] = pointMatrixToTransformation(rectToMatrix(element)).mult((new matrixSVG()).fromSVGMatrix(slides[counter].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(element.parentNode.getScreenCTM())).inv());
+
+				tempViews[dict[&quot;order&quot;]] = effectDict;
+			}
+
+			// Remove element.
+			element.parentNode.removeChild(element);
+		}
+
+		// Consolidate view array and append it to the effect array.
+		if (tempViews.length &gt; 0)
+		{
+			for (var viewCounter = 0; viewCounter &lt; tempViews.length; viewCounter++)
+			{
+				if (tempViews[viewCounter])
+				{
+					tempViews[viewCounter][&quot;options&quot;][&quot;matrixOld&quot;] = matrixOld;
+					matrixOld = tempViews[viewCounter][&quot;options&quot;][&quot;matrixNew&quot;];
+
+					if (!tempEffects[tempViews[viewCounter][&quot;order&quot;]])
+						tempEffects[tempViews[viewCounter][&quot;order&quot;]] = new Array();
+
+					tempEffects[tempViews[viewCounter][&quot;order&quot;]][tempEffects[tempViews[viewCounter][&quot;order&quot;]].length] = tempViews[viewCounter];
+				}
+			}
+		}
+
+		// Set consolidated effect array.
+		if (tempEffects.length &gt; 0)
+		{
+			slides[counter][&quot;effects&quot;] = new Array();
+
+			for (var effectCounter = 0; effectCounter &lt; tempEffects.length; effectCounter++)
+			{
+				if (tempEffects[effectCounter])
+					slides[counter][&quot;effects&quot;][slides[counter][&quot;effects&quot;].length] = tempEffects[effectCounter];
+			}
+		}
+
+		node.setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + counter + &quot;)) { indexSetActiveSlide(&quot; + counter + &quot;); };&quot;);
+
+		// Set visibility for initial state.
+		if (counter == activeSlide)
+		{
+			node.style.display = &quot;inherit&quot;;
+			node.setAttribute(&quot;opacity&quot;,1);
+		}
+		else
+		{
+			node.style.display = &quot;none&quot;;
+			node.setAttribute(&quot;opacity&quot;,0);
+		}
+	}
+
+	// Set key handler.
+	var jessyInkObjects = document.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	for (var counter = 0; counter &lt; jessyInkObjects.length; counter++)
+	{
+		var elem = jessyInkObjects[counter];
+
+		if (elem.getAttributeNS(NSS[&quot;jessyink&quot;], &quot;customKeyBindings&quot;))
+		{
+			if (elem.getCustomKeyBindings != undefined)
+				keyCodeDictionary = elem.getCustomKeyBindings();
+
+			if (elem.getCustomCharBindings != undefined)
+				charCodeDictionary = elem.getCustomCharBindings();
+		}
+	}
+
+	// Set mouse handler.
+	var jessyInkMouseHandler = document.getElementsByTagNameNS(NSS[&quot;jessyink&quot;], &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; jessyInkMouseHandler.length; counter++)
+	{
+		var elem = jessyInkMouseHandler[counter];
+
+		if (elem.getMouseHandler != undefined)
+		{
+			var tempDict = elem.getMouseHandler();
+
+			for (mode in tempDict)
+			{
+				if (!mouseHandlerDictionary[mode])
+					mouseHandlerDictionary[mode] = new Object();
+
+				for (handler in tempDict[mode])
+					mouseHandlerDictionary[mode][handler] = tempDict[mode][handler];
+			}
+		}
+	}
+
+	// Check effect number.
+	if ((activeEffect &lt; 0) || (!slides[activeSlide].effects))
+	{
+		activeEffect = 0;
+	}
+	else if (activeEffect &gt; slides[activeSlide].effects.length)
+	{
+		activeEffect = slides[activeSlide].effects.length;
+	}
+
+	createProgressBar(JessyInkPresentationLayer);
+	hideProgressBar();
+	setProgressBarValue(activeSlide);
+	setTimeIndicatorValue(0);
+	setInterval(&quot;updateTimer()&quot;, 1000);
+	setSlideToState(activeSlide, activeEffect);
+	jessyInkInitialised = true;
+}
+
+/** Function to subtitute the auto-texts.
+ *
+ *  @param node the node
+ *  @param slideName name of the slide the node is on
+ *  @param slideNumber number of the slide the node is on
+ *  @param numberOfSlides number of slides in the presentation
+ */
+function substituteAutoTexts(node, slideName, slideNumber, numberOfSlides)
+{
+	var texts = node.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;tspan&quot;);
+
+	for (var textCounter = 0; textCounter &lt; texts.length; textCounter++)
+	{
+		if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;slideNumber&quot;)
+			texts[textCounter].firstChild.nodeValue = slideNumber;
+		else if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;numberOfSlides&quot;)
+			texts[textCounter].firstChild.nodeValue = numberOfSlides;
+		else if (texts[textCounter].getAttributeNS(NSS[&quot;jessyink&quot;], &quot;autoText&quot;) == &quot;slideTitle&quot;)
+			texts[textCounter].firstChild.nodeValue = slideName;
+	}
+}
+
+/** Convenience function to get an element depending on whether it has a property with a particular name.
+ *	This function emulates some dearly missed XPath functionality.
+ *
+ *  @param node the node
+ *  @param namespace namespace of the attribute
+ *  @param name attribute name
+ */
+function getElementsByPropertyNS(node, namespace, name)
+{
+	var elems = new Array();
+
+	if (node.getAttributeNS(namespace, name))
+		elems.push(node.getAttribute(&quot;id&quot;));
+
+	for (var counter = 0; counter &lt; node.childNodes.length; counter++)
+	{
+		if (node.childNodes[counter].nodeType == 1)
+			elems = elems.concat(getElementsByPropertyNS(node.childNodes[counter], namespace, name));
+	}
+
+	return elems;
+}
+
+/** Function to dispatch the next effect, if there is none left, change the slide.
+ *
+ *  @param dir direction of the change (1 = forwards, -1 = backwards)
+ */
+function dispatchEffects(dir)
+{
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (((dir == 1) &amp;&amp; (activeEffect &lt; slides[activeSlide][&quot;effects&quot;].length)) || ((dir == -1) &amp;&amp; (activeEffect &gt; 0))))
+	{
+		processingEffect = true;
+
+		if (dir == 1)
+		{
+			effectArray = slides[activeSlide][&quot;effects&quot;][activeEffect];
+			activeEffect += dir;
+		}
+		else if (dir == -1)
+		{
+			activeEffect += dir;
+			effectArray = slides[activeSlide][&quot;effects&quot;][activeEffect];
+		}
+
+		transCounter = 0;
+		startTime = (new Date()).getTime();
+		lastFrameTime = null;
+		effect(dir);
+	}
+	else if (((dir == 1) &amp;&amp; (activeSlide &lt; (slides.length - 1))) || (((dir == -1) &amp;&amp; (activeSlide &gt; 0))))
+	{
+		changeSlide(dir);
+	}
+}
+
+/** Function to skip effects and directly either put the slide into start or end state or change slides.
+ *
+ *  @param dir direction of the change (1 = forwards, -1 = backwards)
+ */
+function skipEffects(dir)
+{
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (((dir == 1) &amp;&amp; (activeEffect &lt; slides[activeSlide][&quot;effects&quot;].length)) || ((dir == -1) &amp;&amp; (activeEffect &gt; 0))))
+	{
+		processingEffect = true;
+
+		if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (dir == 1))
+			activeEffect = slides[activeSlide][&quot;effects&quot;].length;
+		else
+			activeEffect = 0;
+
+		if (dir == 1)
+			setSlideToState(activeSlide, STATE_END);
+		else
+			setSlideToState(activeSlide, STATE_START);
+
+		processingEffect = false;
+	}
+	else if (((dir == 1) &amp;&amp; (activeSlide &lt; (slides.length - 1))) || (((dir == -1) &amp;&amp; (activeSlide &gt; 0))))
+	{
+		changeSlide(dir);
+	}
+}
+
+/** Function to change between slides.
+ *
+ *  @param dir direction (1 = forwards, -1 = backwards)
+ */
+function changeSlide(dir)
+{
+	processingEffect = true;
+	effectArray = new Array();
+
+	effectArray[0] = new Object();
+	if (dir == 1)
+	{
+		effectArray[0][&quot;effect&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;name&quot;];
+		effectArray[0][&quot;options&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;options&quot;];
+		effectArray[0][&quot;dir&quot;] = -1;
+	}
+	else if (dir == -1)
+	{
+		effectArray[0][&quot;effect&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;name&quot;];
+		effectArray[0][&quot;options&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;options&quot;];
+		effectArray[0][&quot;dir&quot;] = 1;
+	}
+	effectArray[0][&quot;element&quot;] = slides[activeSlide][&quot;element&quot;];
+
+	activeSlide += dir;
+	setProgressBarValue(activeSlide);
+
+	effectArray[1] = new Object();
+
+	if (dir == 1)
+	{
+		effectArray[1][&quot;effect&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;name&quot;];
+		effectArray[1][&quot;options&quot;] = slides[activeSlide][&quot;transitionIn&quot;][&quot;options&quot;];
+		effectArray[1][&quot;dir&quot;] = 1;
+	}
+	else if (dir == -1)
+	{
+		effectArray[1][&quot;effect&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;name&quot;];
+		effectArray[1][&quot;options&quot;] = slides[activeSlide][&quot;transitionOut&quot;][&quot;options&quot;];
+		effectArray[1][&quot;dir&quot;] = -1;
+	}
+
+	effectArray[1][&quot;element&quot;] = slides[activeSlide][&quot;element&quot;];
+
+	if (slides[activeSlide][&quot;effects&quot;] &amp;&amp; (dir == -1))
+		activeEffect = slides[activeSlide][&quot;effects&quot;].length;
+	else
+		activeEffect = 0;
+
+	if (dir == -1)
+		setSlideToState(activeSlide, STATE_END);
+	else
+		setSlideToState(activeSlide, STATE_START);
+
+	transCounter = 0;
+	startTime = (new Date()).getTime();
+	lastFrameTime = null;
+	effect(dir);
+}
+
+/** Function to toggle between index and slide mode.
+*/
+function toggleSlideIndex()
+{
+	var suspendHandle = ROOT_NODE.suspendRedraw(500);
+
+	if (currentMode == SLIDE_MODE)
+	{
+		hideProgressBar();		
+		INDEX_OFFSET = -1;
+		indexSetPageSlide(activeSlide);
+		currentMode = INDEX_MODE;
+	}
+	else if (currentMode == INDEX_MODE)
+	{
+		for (var counter = 0; counter &lt; slides.length; counter++)
+		{
+			slides[counter][&quot;element&quot;].setAttribute(&quot;transform&quot;,&quot;scale(1)&quot;);
+
+			if (counter == activeSlide)
+			{
+				slides[counter][&quot;element&quot;].style.display = &quot;inherit&quot;;
+				slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+				activeEffect = 0;
+			}
+			else
+			{
+				slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+				slides[counter][&quot;element&quot;].style.display = &quot;none&quot;;
+			}
+		}
+		currentMode = SLIDE_MODE;
+		setSlideToState(activeSlide, STATE_START);
+		setProgressBarValue(activeSlide);
+
+		if (progress_bar_visible)
+		{
+			showProgressBar();
+		}
+	}
+
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+}
+
+/** Function to run an effect.
+ *
+ *  @param dir direction in which to play the effect (1 = forwards, -1 = backwards)
+ */
+function effect(dir)
+{
+	var done = true;
+
+	var suspendHandle = ROOT_NODE.suspendRedraw(200);
+
+	for (var counter = 0; counter &lt; effectArray.length; counter++)
+	{
+		if (effectArray[counter][&quot;effect&quot;] == &quot;fade&quot;)
+			done &amp;= fade(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;appear&quot;)
+			done &amp;= appear(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;pop&quot;)
+			done &amp;= pop(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+		else if (effectArray[counter][&quot;effect&quot;] == &quot;view&quot;)
+			done &amp;= view(parseInt(effectArray[counter][&quot;dir&quot;]) * dir, effectArray[counter][&quot;element&quot;], transCounter, effectArray[counter][&quot;options&quot;]);
+	}
+
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+
+	if (!done)
+	{
+		var currentTime = (new Date()).getTime();
+		var timeDiff = 1;
+
+		transCounter = currentTime - startTime;
+
+		if (lastFrameTime != null)
+		{
+			timeDiff = timeStep - (currentTime - lastFrameTime);
+
+			if (timeDiff &lt;= 0)
+				timeDiff = 1;
+		}
+
+		lastFrameTime = currentTime;
+
+		window.setTimeout(&quot;effect(&quot; + dir + &quot;)&quot;, timeDiff);
+	}
+	else
+	{
+		window.location.hash = (activeSlide + 1) + '_' + activeEffect;
+		processingEffect = false;
+	}
+}
+
+/** Function to display the index sheet.
+ *
+ *  @param offsetNumber offset number
+ */
+function displayIndex(offsetNumber)
+{
+	var offsetX = 0;
+	var offsetY = 0;
+
+	if (offsetNumber &lt; 0)
+		offsetNumber = 0;
+	else if (offsetNumber &gt;= slides.length)
+		offsetNumber = slides.length - 1;
+
+	for (var counter = 0; counter &lt; slides.length; counter++)
+	{
+		if ((counter &lt; offsetNumber) || (counter &gt; offsetNumber + INDEX_COLUMNS * INDEX_COLUMNS - 1))
+		{
+			slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+			slides[counter][&quot;element&quot;].style.display = &quot;none&quot;;
+		}
+		else
+		{
+			offsetX = ((counter - offsetNumber) % INDEX_COLUMNS) * WIDTH;
+			offsetY = Math.floor((counter - offsetNumber) / INDEX_COLUMNS) * HEIGHT;
+
+			slides[counter][&quot;element&quot;].setAttribute(&quot;transform&quot;,&quot;scale(&quot;+1/INDEX_COLUMNS+&quot;) translate(&quot;+offsetX+&quot;,&quot;+offsetY+&quot;)&quot;);
+			slides[counter][&quot;element&quot;].style.display = &quot;inherit&quot;;
+			slides[counter][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0.5);
+		}
+
+		setSlideToState(counter, STATE_END);
+	}
+
+	//do we need to save the current offset?
+	if (INDEX_OFFSET != offsetNumber)
+		INDEX_OFFSET = offsetNumber;
+}
+
+/** Function to set the active slide in the slide view.
+ *
+ *  @param nbr index of the active slide
+ */
+function slideSetActiveSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0);
+	slides[activeSlide][&quot;element&quot;].style.display = &quot;none&quot;;
+
+	activeSlide = parseInt(nbr);
+
+	setSlideToState(activeSlide, STATE_START);
+	slides[activeSlide][&quot;element&quot;].style.display = &quot;inherit&quot;;
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+
+	activeEffect = 0;
+	setProgressBarValue(nbr);
+}
+
+/** Function to set the active slide in the index view.
+ *
+ *  @param nbr index of the active slide
+ */
+function indexSetActiveSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,0.5);
+
+	activeSlide = parseInt(nbr);
+	window.location.hash = (activeSlide + 1) + '_0';
+
+	slides[activeSlide][&quot;element&quot;].setAttribute(&quot;opacity&quot;,1);
+}
+
+/** Function to set the page and active slide in index view. 
+ *
+ *  @param nbr index of the active slide
+ *
+ *  NOTE: To force a redraw,
+ *  set INDEX_OFFSET to -1 before calling indexSetPageSlide().
+ *
+ *  This is necessary for zooming (otherwise the index might not
+ *  get redrawn) and when switching to index mode.
+ *
+ *  INDEX_OFFSET = -1
+ *  indexSetPageSlide(activeSlide);
+ */
+function indexSetPageSlide(nbr)
+{
+	if (nbr &gt;= slides.length)
+		nbr = slides.length - 1;
+	else if (nbr &lt; 0)
+		nbr = 0;
+
+	//calculate the offset
+	var offset = nbr - nbr % (INDEX_COLUMNS * INDEX_COLUMNS);
+
+	if (offset &lt; 0)
+		offset = 0;
+
+	//if different from kept offset, then record and change the page
+	if (offset != INDEX_OFFSET)
+	{
+		INDEX_OFFSET = offset;
+		displayIndex(INDEX_OFFSET);
+	}
+
+	//set the active slide
+	indexSetActiveSlide(nbr);
+}
+
+/** Event handler for key press.
+ *
+ *  @param e the event
+ */
+function keydown(e)
+{
+	if (!e)
+		e = window.event;
+
+	code = e.keyCode || e.charCode;
+
+	if (!processingEffect &amp;&amp; keyCodeDictionary[currentMode] &amp;&amp; keyCodeDictionary[currentMode][code])
+		return keyCodeDictionary[currentMode][code]();
+	else
+		document.onkeypress = keypress;
+}
+// Set event handler for key down.
+document.onkeydown = keydown;
+
+/** Event handler for key press.
+ *
+ *  @param e the event
+ */
+function keypress(e)
+{
+	document.onkeypress = null;
+
+	if (!e)
+		e = window.event;
+
+	str = String.fromCharCode(e.keyCode || e.charCode);
+
+	if (!processingEffect &amp;&amp; charCodeDictionary[currentMode] &amp;&amp; charCodeDictionary[currentMode][str])
+		return charCodeDictionary[currentMode][str]();
+}
+
+/** Function to supply the default char code dictionary.
+ *
+ * @returns default char code dictionary
+ */
+function getDefaultCharCodeDictionary()
+{
+	var charCodeDict = new Object();
+
+	charCodeDict[SLIDE_MODE] = new Object();
+	charCodeDict[INDEX_MODE] = new Object();
+	charCodeDict[DRAWING_MODE] = new Object();
+
+	charCodeDict[SLIDE_MODE][&quot;i&quot;] = function () { return toggleSlideIndex(); };
+	charCodeDict[SLIDE_MODE][&quot;d&quot;] = function () { return slideSwitchToDrawingMode(); };
+	charCodeDict[SLIDE_MODE][&quot;D&quot;] = function () { return slideQueryDuration(); };
+	charCodeDict[SLIDE_MODE][&quot;n&quot;] = function () { return slideAddSlide(activeSlide); };
+	charCodeDict[SLIDE_MODE][&quot;p&quot;] = function () { return slideToggleProgressBarVisibility(); };
+	charCodeDict[SLIDE_MODE][&quot;t&quot;] = function () { return slideResetTimer(); };
+	charCodeDict[SLIDE_MODE][&quot;e&quot;] = function () { return slideUpdateExportLayer(); };
+
+	charCodeDict[DRAWING_MODE][&quot;d&quot;] = function () { return drawingSwitchToSlideMode(); };
+	charCodeDict[DRAWING_MODE][&quot;0&quot;] = function () { return drawingResetPathWidth(); };
+	charCodeDict[DRAWING_MODE][&quot;1&quot;] = function () { return drawingSetPathWidth(1.0); };
+	charCodeDict[DRAWING_MODE][&quot;3&quot;] = function () { return drawingSetPathWidth(3.0); };
+	charCodeDict[DRAWING_MODE][&quot;5&quot;] = function () { return drawingSetPathWidth(5.0); };
+	charCodeDict[DRAWING_MODE][&quot;7&quot;] = function () { return drawingSetPathWidth(7.0); };
+	charCodeDict[DRAWING_MODE][&quot;9&quot;] = function () { return drawingSetPathWidth(9.0); };
+	charCodeDict[DRAWING_MODE][&quot;b&quot;] = function () { return drawingSetPathColour(&quot;blue&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;c&quot;] = function () { return drawingSetPathColour(&quot;cyan&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;g&quot;] = function () { return drawingSetPathColour(&quot;green&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;k&quot;] = function () { return drawingSetPathColour(&quot;black&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;m&quot;] = function () { return drawingSetPathColour(&quot;magenta&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;o&quot;] = function () { return drawingSetPathColour(&quot;orange&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;r&quot;] = function () { return drawingSetPathColour(&quot;red&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;w&quot;] = function () { return drawingSetPathColour(&quot;white&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;y&quot;] = function () { return drawingSetPathColour(&quot;yellow&quot;); };
+	charCodeDict[DRAWING_MODE][&quot;z&quot;] = function () { return drawingUndo(); };
+
+	charCodeDict[INDEX_MODE][&quot;i&quot;] = function () { return toggleSlideIndex(); };
+	charCodeDict[INDEX_MODE][&quot;-&quot;] = function () { return indexDecreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;=&quot;] = function () { return indexIncreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;+&quot;] = function () { return indexIncreaseNumberOfColumns(); };
+	charCodeDict[INDEX_MODE][&quot;0&quot;] = function () { return indexResetNumberOfColumns(); };
+
+	return charCodeDict;
+}
+
+/** Function to supply the default key code dictionary.
+ *
+ * @returns default key code dictionary
+ */
+function getDefaultKeyCodeDictionary()
+{
+	var keyCodeDict = new Object();
+
+	keyCodeDict[SLIDE_MODE] = new Object();
+	keyCodeDict[INDEX_MODE] = new Object();
+	keyCodeDict[DRAWING_MODE] = new Object();
+
+	keyCodeDict[SLIDE_MODE][LEFT_KEY] = function() { return dispatchEffects(-1); };
+	keyCodeDict[SLIDE_MODE][RIGHT_KEY] = function() { return dispatchEffects(1); };
+	keyCodeDict[SLIDE_MODE][UP_KEY] = function() { return skipEffects(-1); };
+	keyCodeDict[SLIDE_MODE][DOWN_KEY] = function() { return skipEffects(1); };
+	keyCodeDict[SLIDE_MODE][PAGE_UP_KEY] = function() { return dispatchEffects(-1); };
+	keyCodeDict[SLIDE_MODE][PAGE_DOWN_KEY] = function() { return dispatchEffects(1); };
+	keyCodeDict[SLIDE_MODE][HOME_KEY] = function() { return slideSetActiveSlide(0); };
+	keyCodeDict[SLIDE_MODE][END_KEY] = function() { return slideSetActiveSlide(slides.length - 1); };
+	keyCodeDict[SLIDE_MODE][SPACE_KEY] = function() { return dispatchEffects(1); };
+
+	keyCodeDict[INDEX_MODE][LEFT_KEY] = function() { return indexSetPageSlide(activeSlide - 1); };
+	keyCodeDict[INDEX_MODE][RIGHT_KEY] = function() { return indexSetPageSlide(activeSlide + 1); };
+	keyCodeDict[INDEX_MODE][UP_KEY] = function() { return indexSetPageSlide(activeSlide - INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][DOWN_KEY] = function() { return indexSetPageSlide(activeSlide + INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][PAGE_UP_KEY] = function() { return indexSetPageSlide(activeSlide - INDEX_COLUMNS * INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][PAGE_DOWN_KEY] = function() { return indexSetPageSlide(activeSlide + INDEX_COLUMNS * INDEX_COLUMNS); };
+	keyCodeDict[INDEX_MODE][HOME_KEY] = function() { return indexSetPageSlide(0); };
+	keyCodeDict[INDEX_MODE][END_KEY] = function() { return indexSetPageSlide(slides.length - 1); };
+	keyCodeDict[INDEX_MODE][ENTER_KEY] = function() { return toggleSlideIndex(); };
+
+	keyCodeDict[DRAWING_MODE][ESCAPE_KEY] = function () { return drawingSwitchToSlideMode(); };
+
+	return keyCodeDict;
+}
+
+/** Function to handle all mouse events.
+ *
+ *	@param	evnt	event
+ *	@param	action	type of event (e.g. mouse up, mouse wheel)
+ */
+function mouseHandlerDispatch(evnt, action)
+{
+	if (!evnt)
+		evnt = window.event;
+
+	var retVal = true;
+
+	if (!processingEffect &amp;&amp; mouseHandlerDictionary[currentMode] &amp;&amp; mouseHandlerDictionary[currentMode][action])
+	{
+		var subRetVal = mouseHandlerDictionary[currentMode][action](evnt);
+
+		if (subRetVal != null &amp;&amp; subRetVal != undefined)
+			retVal = subRetVal;
+	}
+
+	if (evnt.preventDefault &amp;&amp; !retVal)
+		evnt.preventDefault();
+
+	evnt.returnValue = retVal;
+
+	return retVal;
+}
+
+// Set mouse event handler.
+document.onmousedown = function(e) { return mouseHandlerDispatch(e, MOUSE_DOWN); };
+document.onmouseup = function(e) { return mouseHandlerDispatch(e, MOUSE_UP); };
+document.onmousemove = function(e) { return mouseHandlerDispatch(e, MOUSE_MOVE); };
+
+// Moz
+if (window.addEventListener)
+{
+	window.addEventListener('DOMMouseScroll', function(e) { return mouseHandlerDispatch(e, MOUSE_WHEEL); }, false);
+}
+
+// Opera Safari OK - may not work in IE
+window.onmousewheel = function(e) { return mouseHandlerDispatch(e, MOUSE_WHEEL); };
+
+/** Function to supply the default mouse handler dictionary.
+ *
+ * @returns default mouse handler dictionary
+ */
+function getDefaultMouseHandlerDictionary()
+{
+	var mouseHandlerDict = new Object();
+
+	mouseHandlerDict[SLIDE_MODE] = new Object();
+	mouseHandlerDict[INDEX_MODE] = new Object();
+	mouseHandlerDict[DRAWING_MODE] = new Object();
+
+	mouseHandlerDict[SLIDE_MODE][MOUSE_DOWN] = function(evnt) { return dispatchEffects(1); };
+	mouseHandlerDict[SLIDE_MODE][MOUSE_WHEEL] = function(evnt) { return slideMousewheel(evnt); };
+
+	mouseHandlerDict[INDEX_MODE][MOUSE_DOWN] = function(evnt) { return toggleSlideIndex(); };
+
+	mouseHandlerDict[DRAWING_MODE][MOUSE_DOWN] = function(evnt) { return drawingMousedown(evnt); };
+	mouseHandlerDict[DRAWING_MODE][MOUSE_UP] = function(evnt) { return drawingMouseup(evnt); };
+	mouseHandlerDict[DRAWING_MODE][MOUSE_MOVE] = function(evnt) { return drawingMousemove(evnt); };
+
+	return mouseHandlerDict;
+}
+
+/** Function to switch from slide mode to drawing mode.
+*/
+function slideSwitchToDrawingMode()
+{
+	currentMode = DRAWING_MODE;
+
+	var tempDict;
+
+	if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+		tempDict = propStrToDict(ROOT_NODE.getAttribute(&quot;style&quot;));
+	else
+		tempDict = new Object();
+
+	tempDict[&quot;cursor&quot;] = &quot;crosshair&quot;;
+	ROOT_NODE.setAttribute(&quot;style&quot;, dictToPropStr(tempDict));
+}
+
+/** Function to switch from drawing mode to slide mode.
+*/
+function drawingSwitchToSlideMode()
+{
+	currentMode = SLIDE_MODE;
+
+	var tempDict;
+
+	if (ROOT_NODE.hasAttribute(&quot;style&quot;))
+		tempDict = propStrToDict(ROOT_NODE.getAttribute(&quot;style&quot;));
+	else
+		tempDict = new Object();
+
+	tempDict[&quot;cursor&quot;] = &quot;auto&quot;;
+	ROOT_NODE.setAttribute(&quot;style&quot;, dictToPropStr(tempDict));
+}
+
+/** Function to decrease the number of columns in index mode.
+*/
+function indexDecreaseNumberOfColumns()
+{
+	if (INDEX_COLUMNS &gt;= 3)
+	{
+		INDEX_COLUMNS -= 1;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to increase the number of columns in index mode.
+*/
+function indexIncreaseNumberOfColumns()
+{
+	if (INDEX_COLUMNS &lt; 7)
+	{
+		INDEX_COLUMNS += 1;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to reset the number of columns in index mode.
+*/
+function indexResetNumberOfColumns()
+{
+	if (INDEX_COLUMNS != INDEX_COLUMNS_DEFAULT)
+	{
+		INDEX_COLUMNS = INDEX_COLUMNS_DEFAULT;
+		INDEX_OFFSET = -1
+			indexSetPageSlide(activeSlide);
+	}
+}
+
+/** Function to reset path width in drawing mode.
+*/
+function drawingResetPathWidth()
+{
+	path_width = path_width_default;
+	set_path_paint_width();
+}
+
+/** Function to set path width in drawing mode.
+ *
+ * @param width new path width
+ */
+function drawingSetPathWidth(width)
+{
+	path_width = width;
+	set_path_paint_width();
+}
+
+/** Function to set path colour in drawing mode.
+ *
+ * @param colour new path colour
+ */
+function drawingSetPathColour(colour)
+{
+	path_colour = colour;
+}
+
+/** Function to query the duration of the presentation from the user in slide mode.
+*/
+function slideQueryDuration()
+{
+	var new_duration = prompt(&quot;Length of presentation in minutes?&quot;, timer_duration);
+
+	if ((new_duration != null) &amp;&amp; (new_duration != ''))
+	{
+		timer_duration = new_duration;
+	}
+
+	updateTimer();
+}
+
+/** Function to add new slide in slide mode.
+ *
+ * @param afterSlide after which slide to insert the new one
+ */
+function slideAddSlide(afterSlide)
+{
+	addSlide(afterSlide);
+	slideSetActiveSlide(afterSlide + 1);
+	updateTimer();
+}
+
+/** Function to toggle the visibility of the progress bar in slide mode.
+*/
+function slideToggleProgressBarVisibility()
+{
+	if (progress_bar_visible)
+	{
+		progress_bar_visible = false;
+		hideProgressBar();
+	}
+	else
+	{
+		progress_bar_visible = true;
+		showProgressBar();
+	}
+}
+
+/** Function to reset the timer in slide mode.
+*/
+function slideResetTimer()
+{
+	timer_start = timer_elapsed;
+	updateTimer();
+}
+
+/** Convenience function to pad a string with zero in front up to a certain length.
+ */
+function padString(str, len)
+{
+	var outStr = str;
+
+	while (outStr.length &lt; len)
+	{
+		outStr = '0' + outStr;
+	}
+
+	return outStr;
+}
+
+/** Function to update the export layer.
+ */
+function slideUpdateExportLayer()
+{
+	// Suspend redraw since we are going to mess with the slides.
+	var suspendHandle = ROOT_NODE.suspendRedraw(2000);
+
+	var tmpActiveSlide = activeSlide;
+	var tmpActiveEffect = activeEffect;
+	var exportedLayers = new Array();
+
+	for (var counterSlides = 0; counterSlides &lt; slides.length; counterSlides++)
+	{
+		var exportNode;
+
+		setSlideToState(counterSlides, STATE_START);
+
+		var maxEffect = 0;
+
+		if (slides[counterSlides].effects)
+		{
+			maxEffect = slides[counterSlides].effects.length;
+		}
+
+		exportNode = slides[counterSlides].element.cloneNode(true);
+		exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+		exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;slide_&quot; + padString((counterSlides + 1).toString(), slides.length.toString().length) + &quot;_effect_&quot; + padString(&quot;0&quot;, maxEffect.toString().length));
+
+		exportedLayers.push(exportNode);
+
+		if (slides[counterSlides][&quot;effects&quot;])
+		{	
+			for (var counter = 0; counter &lt; slides[counterSlides][&quot;effects&quot;].length; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[counterSlides][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[counterSlides][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(parseInt(effect[&quot;dir&quot;]), effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+
+				var layerName = &quot;slide_&quot; + padString((counterSlides + 1).toString(), slides.length.toString().length) + &quot;_effect_&quot; + padString((counter + 1).toString(), maxEffect.toString().length);
+				exportNode = slides[counterSlides].element.cloneNode(true);
+				exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+				exportNode.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, layerName);
+				exportNode.setAttribute(&quot;id&quot;, layerName);
+
+				exportedLayers.push(exportNode);
+			}
+		}
+	}
+
+	activeSlide = tmpActiveSlide;
+	activeEffect = tmpActiveEffect;
+	setSlideToState(activeSlide, activeEffect);
+
+	// Copy image.
+	var newDoc = document.documentElement.cloneNode(true);
+
+	// Delete viewbox form new imag and set width and height.
+	newDoc.removeAttribute('viewbox');
+	newDoc.setAttribute('width', WIDTH);
+	newDoc.setAttribute('height', HEIGHT);
+
+	// Delete all layers and script elements.
+	var nodesToBeRemoved = new Array();
+
+	for (var childCounter = 0; childCounter &lt;  newDoc.childNodes.length; childCounter++)
+	{
+		var child = newDoc.childNodes[childCounter];
+
+		if (child.nodeType == 1)
+		{
+			if ((child.nodeName.toUpperCase() == 'G') || (child.nodeName.toUpperCase() == 'SCRIPT'))
+			{
+				nodesToBeRemoved.push(child);
+			}
+		}
+	}
+
+	for (var ndCounter = 0; ndCounter &lt; nodesToBeRemoved.length; ndCounter++)
+	{
+		var nd = nodesToBeRemoved[ndCounter];
+
+		// Before removing the node, check whether it contains any definitions.
+		var defs = nd.getElementsByTagNameNS(NSS[&quot;svg&quot;], &quot;defs&quot;);
+
+		for (var defsCounter = 0; defsCounter &lt; defs.length; defsCounter++)
+		{
+			if (defs[defsCounter].id)
+			{
+				newDoc.appendChild(defs[defsCounter].cloneNode(true));
+			}
+		}
+
+		// Remove node.
+		nd.parentNode.removeChild(nd);
+	}
+
+	// Set current layer.
+	if (exportedLayers[0])
+	{
+		var namedView;
+
+		for (var nodeCounter = 0; nodeCounter &lt; newDoc.childNodes.length; nodeCounter++)
+		{
+			if ((newDoc.childNodes[nodeCounter].nodeType == 1) &amp;&amp; (newDoc.childNodes[nodeCounter].getAttribute('id') == 'base'))
+			{
+				namedView = newDoc.childNodes[nodeCounter];
+			}
+		}
+
+		if (namedView)
+		{
+			namedView.setAttributeNS(NSS['inkscape'], 'current-layer', exportedLayers[0].getAttributeNS(NSS['inkscape'], 'label'));
+		}
+	}
+
+	// Add exported layers.
+	while (exportedLayers.length &gt; 0)
+	{
+		var nd = exportedLayers.pop();
+
+		nd.setAttribute(&quot;opacity&quot;,1);
+		nd.style.display = &quot;inherit&quot;;
+
+		newDoc.appendChild(nd);
+	}
+
+	// Serialise the new document.
+  window.location = 'data:application/svg+xml;base64;charset=utf-8,' + window.btoa(unescape(encodeURIComponent((new XMLSerializer()).serializeToString(newDoc))));
+
+	// Unsuspend redraw.
+	ROOT_NODE.unsuspendRedraw(suspendHandle);
+	ROOT_NODE.forceRedraw();
+}
+
+/** Function to undo last drawing operation.
+*/
+function drawingUndo()
+{
+	mouse_presentation_path = null;
+	mouse_original_path = null;
+
+	if (history_presentation_elements.length &gt; 0)
+	{
+		var p = history_presentation_elements.pop();
+		var parent = p.parentNode.removeChild(p);
+
+		p = history_original_elements.pop();
+		parent = p.parentNode.removeChild(p);
+	}
+}
+
+/** Event handler for mouse down in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMousedown(e)
+{
+	var value = 0;
+
+	if (e.button)
+		value = e.button;
+	else if (e.which)
+		value = e.which;
+
+	if (value == 1)
+	{
+		history_counter++;
+
+		var p = calcCoord(e);
+
+		mouse_last_x = e.clientX;
+		mouse_last_y = e.clientY;
+		mouse_original_path = document.createElementNS(NSS[&quot;svg&quot;], &quot;path&quot;);
+		mouse_original_path.setAttribute(&quot;stroke&quot;, path_colour);
+		mouse_original_path.setAttribute(&quot;stroke-width&quot;, path_paint_width);
+		mouse_original_path.setAttribute(&quot;fill&quot;, &quot;none&quot;);
+		mouse_original_path.setAttribute(&quot;id&quot;, &quot;path &quot; + Date());
+		mouse_original_path.setAttribute(&quot;d&quot;, &quot;M&quot; + p.x + &quot;,&quot; + p.y);
+		slides[activeSlide][&quot;original_element&quot;].appendChild(mouse_original_path);
+		history_original_elements.push(mouse_original_path);
+
+		mouse_presentation_path = document.createElementNS(NSS[&quot;svg&quot;], &quot;path&quot;);
+		mouse_presentation_path.setAttribute(&quot;stroke&quot;, path_colour);
+		mouse_presentation_path.setAttribute(&quot;stroke-width&quot;, path_paint_width);
+		mouse_presentation_path.setAttribute(&quot;fill&quot;, &quot;none&quot;);
+		mouse_presentation_path.setAttribute(&quot;id&quot;, &quot;path &quot; + Date() + &quot; presentation copy&quot;);
+		mouse_presentation_path.setAttribute(&quot;d&quot;, &quot;M&quot; + p.x + &quot;,&quot; + p.y);
+
+		if (slides[activeSlide][&quot;viewGroup&quot;])
+			slides[activeSlide][&quot;viewGroup&quot;].appendChild(mouse_presentation_path);
+		else
+			slides[activeSlide][&quot;element&quot;].appendChild(mouse_presentation_path);
+
+		history_presentation_elements.push(mouse_presentation_path);
+
+		return false;
+	}
+
+	return true;
+}
+
+/** Event handler for mouse up in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMouseup(e)
+{
+	if(!e)
+		e = window.event;
+
+	if (mouse_presentation_path != null)
+	{
+		var p = calcCoord(e);
+		var d = mouse_presentation_path.getAttribute(&quot;d&quot;);
+		d += &quot; L&quot; + p.x + &quot;,&quot; + p.y;
+		mouse_presentation_path.setAttribute(&quot;d&quot;, d);
+		mouse_presentation_path = null;
+		mouse_original_path.setAttribute(&quot;d&quot;, d);
+		mouse_original_path = null;
+
+		return false;
+	}
+
+	return true;
+}
+
+/** Event handler for mouse move in drawing mode.
+ *
+ *  @param e the event
+ */
+function drawingMousemove(e)
+{
+	if(!e)
+		e = window.event;
+
+	var dist = (mouse_last_x - e.clientX) * (mouse_last_x - e.clientX) + (mouse_last_y - e.clientY) * (mouse_last_y - e.clientY);
+
+	if (mouse_presentation_path == null)
+	{
+		return true;
+	}
+
+	if (dist &gt;= mouse_min_dist_sqr)
+	{
+		var p = calcCoord(e);
+		var d = mouse_presentation_path.getAttribute(&quot;d&quot;);
+		d += &quot; L&quot; + p.x + &quot;,&quot; + p.y;
+		mouse_presentation_path.setAttribute(&quot;d&quot;, d);
+		mouse_original_path.setAttribute(&quot;d&quot;, d);
+		mouse_last_x = e.clientX;
+		mouse_last_y = e.clientY;
+	}
+
+	return false;
+}
+
+/** Event handler for mouse wheel events in slide mode.
+ *  based on http://adomas.org/javascript-mouse-wheel/
+ *
+ *  @param e the event
+ */
+function slideMousewheel(e)
+{
+	var delta = 0;
+
+	if (!e)
+		e = window.event;
+
+	if (e.wheelDelta)
+	{ // IE Opera
+		delta = e.wheelDelta/120;
+	}
+	else if (e.detail)
+	{ // MOZ
+		delta = -e.detail/3;
+	}
+
+	if (delta &gt; 0)
+		skipEffects(-1);
+	else if (delta &lt; 0)
+		skipEffects(1);
+
+	if (e.preventDefault)
+		e.preventDefault();
+
+	e.returnValue = false;
+}
+
+/** Event handler for mouse wheel events in index mode.
+ *  based on http://adomas.org/javascript-mouse-wheel/
+ *
+ *  @param e the event
+ */
+function indexMousewheel(e)
+{
+	var delta = 0;
+
+	if (!e)
+		e = window.event;
+
+	if (e.wheelDelta)
+	{ // IE Opera
+		delta = e.wheelDelta/120;
+	}
+	else if (e.detail)
+	{ // MOZ
+		delta = -e.detail/3;
+	}
+
+	if (delta &gt; 0)
+		indexSetPageSlide(activeSlide - INDEX_COLUMNS * INDEX_COLUMNS);
+	else if (delta &lt; 0)
+		indexSetPageSlide(activeSlide + INDEX_COLUMNS * INDEX_COLUMNS);
+
+	if (e.preventDefault)
+		e.preventDefault();
+
+	e.returnValue = false;
+}
+
+/** Function to set the path paint width.
+*/
+function set_path_paint_width()
+{
+	var svgPoint1 = document.documentElement.createSVGPoint();
+	var svgPoint2 = document.documentElement.createSVGPoint();
+
+	svgPoint1.x = 0.0;
+	svgPoint1.y = 0.0;
+	svgPoint2.x = 1.0;
+	svgPoint2.y = 0.0;
+
+	var matrix = slides[activeSlide][&quot;element&quot;].getTransformToElement(ROOT_NODE);
+
+	if (slides[activeSlide][&quot;viewGroup&quot;])
+		matrix = slides[activeSlide][&quot;viewGroup&quot;].getTransformToElement(ROOT_NODE);
+
+	svgPoint1 = svgPoint1.matrixTransform(matrix);
+	svgPoint2 = svgPoint2.matrixTransform(matrix);
+
+	path_paint_width = path_width / Math.sqrt((svgPoint2.x - svgPoint1.x) * (svgPoint2.x - svgPoint1.x) + (svgPoint2.y - svgPoint1.y) * (svgPoint2.y - svgPoint1.y));
+}
+
+/** The view effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect); for the view effect the options need to contain the old and the new matrix.
+ */
+function view(dir, element, time, options)
+{
+	var length = 250;
+	var fraction;
+
+	if (!options[&quot;matrixInitial&quot;])
+	{
+		var tempString = slides[activeSlide][&quot;viewGroup&quot;].getAttribute(&quot;transform&quot;);
+
+		if (tempString)
+			options[&quot;matrixInitial&quot;] = (new matrixSVG()).fromAttribute(tempString);
+		else
+			options[&quot;matrixInitial&quot;] = (new matrixSVG()).fromSVGElements(1, 0, 0, 1, 0, 0);
+	}
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].toAttribute());
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixNew&quot;].toAttribute());
+
+			set_path_paint_width();
+
+			options[&quot;matrixInitial&quot;] = null;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].mix(options[&quot;matrixNew&quot;], fraction).toAttribute());
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].toAttribute());
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixOld&quot;].toAttribute());
+			set_path_paint_width();
+
+			options[&quot;matrixInitial&quot;] = null;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;transform&quot;, options[&quot;matrixInitial&quot;].mix(options[&quot;matrixOld&quot;], fraction).toAttribute());
+		}
+	}
+
+	return false;
+}
+
+/** The fade effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function fade(dir, element, time, options)
+{
+	var length = 250;
+	var fraction;
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.style.display = &quot;none&quot;;
+			element.setAttribute(&quot;opacity&quot;, 0);
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1);
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, fraction);
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1);
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.style.display = &quot;none&quot;;
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			element.setAttribute(&quot;opacity&quot;, 1 - fraction);
+		}
+	}
+	return false;
+}
+
+/** The appear effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function appear(dir, element, time, options)
+{
+	if (dir == 1)
+	{
+		element.style.display = &quot;inherit&quot;;
+		element.setAttribute(&quot;opacity&quot;,1);
+	}
+	else if (dir == -1)
+	{
+		element.style.display = &quot;none&quot;;
+		element.setAttribute(&quot;opacity&quot;,0);
+	}
+	return true;
+}
+
+/** The pop effect.
+ *
+ *  @param dir direction the effect should be played (1 = forwards, -1 = backwards)
+ *  @param element the element the effect should be applied to
+ *  @param time the time that has elapsed since the beginning of the effect
+ *  @param options a dictionary with additional options (e.g. length of the effect)
+ */
+function pop(dir, element, time, options)
+{
+	var length = 500;
+	var fraction;
+
+	if ((time == STATE_END) || (time == STATE_START))
+		fraction = 1;
+	else
+	{
+		if (options &amp;&amp; options[&quot;length&quot;])
+			length = options[&quot;length&quot;];
+
+		fraction = time / length;
+	}
+
+	if (dir == 1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(0)&quot;);
+			element.style.display = &quot;none&quot;;
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 1);
+			element.removeAttribute(&quot;transform&quot;);
+			element.style.display = &quot;inherit&quot;;
+			return true;
+		}
+		else
+		{
+			element.style.display = &quot;inherit&quot;;
+			var opacityFraction = fraction * 3;
+			if (opacityFraction &gt; 1)
+				opacityFraction = 1;
+			element.setAttribute(&quot;opacity&quot;, opacityFraction);
+			var offsetX = WIDTH * (1.0 - fraction) / 2.0;
+			var offsetY = HEIGHT * (1.0 - fraction) / 2.0;
+			element.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + offsetX + &quot;,&quot; + offsetY + &quot;) scale(&quot; + fraction + &quot;)&quot;);
+		}
+	}
+	else if (dir == -1)
+	{
+		if (fraction &lt;= 0)
+		{
+			element.setAttribute(&quot;opacity&quot;, 1);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(1)&quot;);
+			element.style.display = &quot;inherit&quot;;
+		}
+		else if (fraction &gt;= 1)
+		{
+			element.setAttribute(&quot;opacity&quot;, 0);
+			element.removeAttribute(&quot;transform&quot;);
+			element.style.display = &quot;none&quot;;
+			return true;
+		}
+		else
+		{
+			element.setAttribute(&quot;opacity&quot;, 1 - fraction);
+			element.setAttribute(&quot;transform&quot;, &quot;scale(&quot; + 1 - fraction + &quot;)&quot;);
+			element.style.display = &quot;inherit&quot;;
+		}
+	}
+	return false;
+}
+
+/** Function to set a slide either to the start or the end state.
+ *  
+ *  @param slide the slide to use
+ *  @param state the state into which the slide should be set
+ */
+function setSlideToState(slide, state)
+{
+	slides[slide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, slides[slide].initialView);
+
+	if (slides[slide][&quot;effects&quot;])
+	{	
+		if (state == STATE_END)
+		{
+			for (var counter = 0; counter &lt; slides[slide][&quot;effects&quot;].length; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+		else if (state == STATE_START)
+		{
+			for (var counter = slides[slide][&quot;effects&quot;].length - 1; counter &gt;= 0; counter--)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(parseInt(effect[&quot;dir&quot;]) * -1, effect[&quot;element&quot;], STATE_START, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+		else
+		{
+			setSlideToState(slide, STATE_START);
+
+			for (var counter = 0; counter &lt; slides[slide][&quot;effects&quot;].length &amp;&amp; counter &lt; state; counter++)
+			{
+				for (var subCounter = 0; subCounter &lt; slides[slide][&quot;effects&quot;][counter].length; subCounter++)
+				{
+					var effect = slides[slide][&quot;effects&quot;][counter][subCounter];
+					if (effect[&quot;effect&quot;] == &quot;fade&quot;)
+						fade(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;appear&quot;)
+						appear(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;pop&quot;)
+						pop(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+					else if (effect[&quot;effect&quot;] == &quot;view&quot;)
+						view(effect[&quot;dir&quot;], effect[&quot;element&quot;], STATE_END, effect[&quot;options&quot;]);	
+				}
+			}
+		}
+	}
+
+	window.location.hash = (activeSlide + 1) + '_' + activeEffect;
+}
+
+/** Convenience function to translate a attribute string into a dictionary.
+ *
+ *	@param str the attribute string
+ *  @return a dictionary
+ *  @see dictToPropStr
+ */
+function propStrToDict(str)
+{
+	var list = str.split(&quot;;&quot;);
+	var obj = new Object();
+
+	for (var counter = 0; counter &lt; list.length; counter++)
+	{
+		var subStr = list[counter];
+		var subList = subStr.split(&quot;:&quot;);
+		if (subList.length == 2)
+		{
+			obj[subList[0]] = subList[1];
+		}	
+	}
+
+	return obj;
+}
+
+/** Convenience function to translate a dictionary into a string that can be used as an attribute.
+ *
+ *  @param dict the dictionary to convert
+ *  @return a string that can be used as an attribute
+ *  @see propStrToDict
+ */
+function dictToPropStr(dict)
+{
+	var str = &quot;&quot;;
+
+	for (var key in dict)
+	{
+		str += key + &quot;:&quot; + dict[key] + &quot;;&quot;;
+	}
+
+	return str;
+}
+
+/** Sub-function to add a suffix to the ids of the node and all its children.
+ *	
+ *	@param node the node to change
+ *	@param suffix the suffix to add
+ *	@param replace dictionary of replaced ids
+ *  @see suffixNodeIds
+ */
+function suffixNoneIds_sub(node, suffix, replace)
+{
+	if (node.nodeType == 1)
+	{
+		if (node.getAttribute(&quot;id&quot;))
+		{
+			var id = node.getAttribute(&quot;id&quot;)
+				replace[&quot;#&quot; + id] = id + suffix;
+			node.setAttribute(&quot;id&quot;, id + suffix);
+		}
+
+		if ((node.nodeName == &quot;use&quot;) &amp;&amp; (node.getAttributeNS(NSS[&quot;xlink&quot;], &quot;href&quot;)) &amp;&amp; (replace[node.getAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;)]))
+			node.setAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;, node.getAttribute(NSS[&quot;xlink&quot;], &quot;href&quot;) + suffix);
+
+		if (node.childNodes)
+		{
+			for (var counter = 0; counter &lt; node.childNodes.length; counter++)
+				suffixNoneIds_sub(node.childNodes[counter], suffix, replace);
+		}
+	}
+}
+
+/** Function to add a suffix to the ids of the node and all its children.
+ *	
+ *	@param node the node to change
+ *	@param suffix the suffix to add
+ *  @return the changed node
+ *  @see suffixNodeIds_sub
+ */
+function suffixNodeIds(node, suffix)
+{
+	var replace = new Object();
+
+	suffixNoneIds_sub(node, suffix, replace);
+
+	return node;
+}
+
+/** Function to build a progress bar.
+ *	
+ *  @param parent node to attach the progress bar to
+ */
+function createProgressBar(parent_node)
+{
+	var g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;layer_progress_bar&quot;);
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	var rect_progress_bar = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+	rect_progress_bar.setAttribute(&quot;style&quot;, &quot;marker: none; fill: rgb(128, 128, 128); stroke: none;&quot;);
+	rect_progress_bar.setAttribute(&quot;id&quot;, &quot;rect_progress_bar&quot;);
+	rect_progress_bar.setAttribute(&quot;x&quot;, 0);
+	rect_progress_bar.setAttribute(&quot;y&quot;, 0.99 * HEIGHT);
+	rect_progress_bar.setAttribute(&quot;width&quot;, 0);
+	rect_progress_bar.setAttribute(&quot;height&quot;, 0.01 * HEIGHT);
+	g.appendChild(rect_progress_bar);
+
+	var circle_timer_indicator = document.createElementNS(NSS[&quot;svg&quot;], &quot;circle&quot;);
+	circle_timer_indicator.setAttribute(&quot;style&quot;, &quot;marker: none; fill: rgb(255, 0, 0); stroke: none;&quot;);
+	circle_timer_indicator.setAttribute(&quot;id&quot;, &quot;circle_timer_indicator&quot;);
+	circle_timer_indicator.setAttribute(&quot;cx&quot;, 0.005 * HEIGHT);
+	circle_timer_indicator.setAttribute(&quot;cy&quot;, 0.995 * HEIGHT);
+	circle_timer_indicator.setAttribute(&quot;r&quot;, 0.005 * HEIGHT);
+	g.appendChild(circle_timer_indicator);
+
+	parent_node.appendChild(g);
+}
+
+/** Function to hide the progress bar.
+ *	
+ */
+function hideProgressBar()
+{
+	var progress_bar = document.getElementById(&quot;layer_progress_bar&quot;);
+
+	if (!progress_bar)
+	{
+		return;
+	}
+
+	progress_bar.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+}
+
+/** Function to show the progress bar.
+ *	
+ */
+function showProgressBar()
+{
+	var progress_bar = document.getElementById(&quot;layer_progress_bar&quot;);
+
+	if (!progress_bar)
+	{
+		return;
+	}
+
+	progress_bar.setAttribute(&quot;style&quot;, &quot;display: inherit;&quot;);
+}
+
+/** Set progress bar value.
+ *	
+ *	@param value the current slide number
+ *
+ */
+function setProgressBarValue(value)
+{
+	var rect_progress_bar = document.getElementById(&quot;rect_progress_bar&quot;);
+
+	if (!rect_progress_bar)
+	{
+		return;
+	}
+
+	if (value &lt; 1)
+	{
+		// First slide, assumed to be the title of the presentation
+		var x = 0;
+		var w = 0.01 * HEIGHT;
+	}
+	else if (value &gt;= slides.length - 1)
+	{
+		// Last slide, assumed to be the end of the presentation
+		var x = WIDTH - 0.01 * HEIGHT;
+		var w = 0.01 * HEIGHT;
+	}
+	else
+	{
+		value -= 1;
+		value /= (slides.length - 2);
+
+		var x = WIDTH * value;
+		var w = WIDTH / (slides.length - 2);
+	}
+
+	rect_progress_bar.setAttribute(&quot;x&quot;, x);
+	rect_progress_bar.setAttribute(&quot;width&quot;, w);
+}
+
+/** Set time indicator.
+ *	
+ *	@param value the percentage of time elapse so far between 0.0 and 1.0
+ *
+ */
+function setTimeIndicatorValue(value)
+{
+	var circle_timer_indicator = document.getElementById(&quot;circle_timer_indicator&quot;);
+
+	if (!circle_timer_indicator)
+	{
+		return;
+	}
+
+	if (value &lt; 0.0)
+	{
+		value = 0.0;
+	}
+
+	if (value &gt; 1.0)
+	{
+		value = 1.0;
+	}
+
+	var cx = (WIDTH - 0.01 * HEIGHT) * value + 0.005 * HEIGHT;
+	circle_timer_indicator.setAttribute(&quot;cx&quot;, cx);
+}
+
+/** Update timer.
+ *	
+ */
+function updateTimer()
+{
+	timer_elapsed += 1;
+	setTimeIndicatorValue((timer_elapsed - timer_start) / (60 * timer_duration));
+}
+
+/** Convert screen coordinates to document coordinates.
+ *
+ *  @param e event with screen coordinates
+ *
+ *  @return coordinates in SVG file coordinate system	
+ */
+function calcCoord(e)
+{
+	var svgPoint = document.documentElement.createSVGPoint();
+	svgPoint.x = e.clientX + window.pageXOffset;
+	svgPoint.y = e.clientY + window.pageYOffset;
+
+	var matrix = slides[activeSlide][&quot;element&quot;].getScreenCTM();
+
+	if (slides[activeSlide][&quot;viewGroup&quot;])
+		matrix = slides[activeSlide][&quot;viewGroup&quot;].getScreenCTM();
+
+	svgPoint = svgPoint.matrixTransform(matrix.inverse());
+	return svgPoint;
+}
+
+/** Add slide.
+ *
+ *	@param after_slide after which slide the new slide should be inserted into the presentation
+ */
+function addSlide(after_slide)
+{
+	number_of_added_slides++;
+
+	var g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;Whiteboard &quot; + Date() + &quot; presentation copy&quot;);
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	var new_slide = new Object();
+	new_slide[&quot;element&quot;] = g;
+
+	// Set build in transition.
+	new_slide[&quot;transitionIn&quot;] = new Object();
+	var dict = defaultTransitionInDict;
+	new_slide[&quot;transitionIn&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+	new_slide[&quot;transitionIn&quot;][&quot;options&quot;] = new Object();
+
+	for (key in dict)
+		if (key != &quot;name&quot;)
+			new_slide[&quot;transitionIn&quot;][&quot;options&quot;][key] = dict[key];
+
+	// Set build out transition.
+	new_slide[&quot;transitionOut&quot;] = new Object();
+	dict = defaultTransitionOutDict;
+	new_slide[&quot;transitionOut&quot;][&quot;name&quot;] = dict[&quot;name&quot;];
+	new_slide[&quot;transitionOut&quot;][&quot;options&quot;] = new Object();
+
+	for (key in dict)
+		if (key != &quot;name&quot;)
+			new_slide[&quot;transitionOut&quot;][&quot;options&quot;][key] = dict[key];
+
+	// Copy master slide content.
+	if (masterSlide)
+	{
+		var clonedNode = suffixNodeIds(masterSlide.cloneNode(true), &quot;_&quot; + Date() + &quot; presentation_copy&quot;);
+		clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;);
+		clonedNode.removeAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;);
+		clonedNode.style.display = &quot;inherit&quot;;
+
+		g.appendChild(clonedNode);
+	}
+
+	// Substitute auto texts.
+	substituteAutoTexts(g, &quot;Whiteboard &quot; + number_of_added_slides, &quot;W&quot; + number_of_added_slides, slides.length);
+
+	g.setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + (after_slide + 1) + &quot;)) { indexSetActiveSlide(&quot; + (after_slide + 1) + &quot;); };&quot;);
+
+	// Create a transform group.
+	var transformGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	// Add content to transform group.
+	while (g.firstChild)
+		transformGroup.appendChild(g.firstChild);
+
+	// Transfer the transform attribute from the node to the transform group.
+	if (g.getAttribute(&quot;transform&quot;))
+	{
+		transformGroup.setAttribute(&quot;transform&quot;, g.getAttribute(&quot;transform&quot;));
+		g.removeAttribute(&quot;transform&quot;);
+	}
+
+	// Create a view group.
+	var viewGroup = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+
+	viewGroup.appendChild(transformGroup);
+	new_slide[&quot;viewGroup&quot;] = g.appendChild(viewGroup);
+
+	// Insert background.
+	if (BACKGROUND_COLOR != null)
+	{
+		var rectNode = document.createElementNS(NSS[&quot;svg&quot;], &quot;rect&quot;);
+
+		rectNode.setAttribute(&quot;x&quot;, 0);
+		rectNode.setAttribute(&quot;y&quot;, 0);
+		rectNode.setAttribute(&quot;width&quot;, WIDTH);
+		rectNode.setAttribute(&quot;height&quot;, HEIGHT);
+		rectNode.setAttribute(&quot;id&quot;, &quot;jessyInkBackground&quot; + Date());
+		rectNode.setAttribute(&quot;fill&quot;, BACKGROUND_COLOR);
+
+		new_slide[&quot;viewGroup&quot;].insertBefore(rectNode, new_slide[&quot;viewGroup&quot;].firstChild);
+	}
+
+	// Set initial view even if there are no other views.
+	var matrixOld = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+
+	new_slide[&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrixOld.toAttribute());
+	new_slide.initialView = matrixOld.toAttribute();
+
+	// Insert slide
+	var node = slides[after_slide][&quot;element&quot;];
+	var next_node = node.nextSibling;
+	var parent_node = node.parentNode;
+
+	if (next_node)
+	{
+		parent_node.insertBefore(g, next_node);
+	}
+	else
+	{
+		parent_node.appendChild(g);
+	}
+
+	g = document.createElementNS(NSS[&quot;svg&quot;], &quot;g&quot;);
+	g.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;groupmode&quot;, &quot;layer&quot;);
+	g.setAttributeNS(NSS[&quot;inkscape&quot;], &quot;label&quot;, &quot;Whiteboard &quot; + number_of_added_slides);
+	g.setAttribute(&quot;clip-path&quot;, &quot;url(#jessyInkSlideClipPath)&quot;);
+	g.setAttribute(&quot;id&quot;, &quot;Whiteboard &quot; + Date());
+	g.setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+
+	new_slide[&quot;original_element&quot;] = g;
+
+	node = slides[after_slide][&quot;original_element&quot;];
+	next_node = node.nextSibling;
+	parent_node = node.parentNode;
+
+	if (next_node)
+	{
+		parent_node.insertBefore(g, next_node);
+	}
+	else
+	{
+		parent_node.appendChild(g);
+	}
+
+	before_new_slide = slides.slice(0, after_slide + 1);
+	after_new_slide = slides.slice(after_slide + 1);
+	slides = before_new_slide.concat(new_slide, after_new_slide);
+
+	//resetting the counter attributes on the slides that follow the new slide...
+	for (var counter = after_slide+2; counter &lt; slides.length; counter++)
+	{
+		slides[counter][&quot;element&quot;].setAttribute(&quot;onmouseover&quot;, &quot;if ((currentMode == INDEX_MODE) &amp;&amp; ( activeSlide != &quot; + counter + &quot;)) { indexSetActiveSlide(&quot; + counter + &quot;); };&quot;);
+	}
+}
+
+/** Convenience function to obtain a transformation matrix from a point matrix.
+ *
+ *	@param mPoints Point matrix.
+ *	@return A transformation matrix.
+ */
+function pointMatrixToTransformation(mPoints)
+{
+	mPointsOld = (new matrixSVG()).fromElements(0, WIDTH, WIDTH, 0, 0, HEIGHT, 1, 1, 1);
+
+	return mPointsOld.mult(mPoints.inv());
+}
+
+/** Convenience function to obtain a matrix with three corners of a rectangle.
+ *
+ *	@param rect an svg rectangle
+ *	@return a matrixSVG containing three corners of the rectangle
+ */
+function rectToMatrix(rect)
+{
+	rectWidth = rect.getBBox().width;
+	rectHeight = rect.getBBox().height;
+	rectX = rect.getBBox().x;
+	rectY = rect.getBBox().y;
+	rectXcorr = 0;
+	rectYcorr = 0;
+
+	scaleX = WIDTH / rectWidth;
+	scaleY = HEIGHT / rectHeight;
+
+	if (scaleX &gt; scaleY)
+	{
+		scaleX = scaleY;
+		rectXcorr -= (WIDTH / scaleX - rectWidth) / 2;
+		rectWidth = WIDTH / scaleX;
+	}	
+	else
+	{
+		scaleY = scaleX;
+		rectYcorr -= (HEIGHT / scaleY - rectHeight) / 2;
+		rectHeight = HEIGHT / scaleY;
+	}
+
+	if (rect.transform.baseVal.numberOfItems &lt; 1)
+	{
+		mRectTrans = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+	}
+	else
+	{
+		mRectTrans = (new matrixSVG()).fromSVGMatrix(rect.transform.baseVal.consolidate().matrix);
+	}
+
+	newBasePoints = (new matrixSVG()).fromElements(rectX, rectX, rectX, rectY, rectY, rectY, 1, 1, 1);
+	newVectors = (new matrixSVG()).fromElements(rectXcorr, rectXcorr + rectWidth, rectXcorr + rectWidth, rectYcorr, rectYcorr, rectYcorr + rectHeight, 0, 0, 0);
+
+	return mRectTrans.mult(newBasePoints.add(newVectors));
+}
+
+/** Function to handle JessyInk elements.
+ *
+ *	@param	node	Element node.
+ */
+function handleElement(node)
+{
+	if (node.getAttributeNS(NSS['jessyink'], 'element') == 'core.video')
+	{
+		var url;
+		var width;
+		var height;
+		var x;
+		var y;
+		var transform;
+
+		var tspans = node.getElementsByTagNameNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;tspan&quot;);
+
+		for (var tspanCounter = 0; tspanCounter &lt; tspans.length; tspanCounter++)
+		{
+			if (tspans[tspanCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;url&quot;)
+			{
+				url = tspans[tspanCounter].firstChild.nodeValue;
+			}
+		}
+
+		var rects = node.getElementsByTagNameNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;rect&quot;);
+
+		for (var rectCounter = 0; rectCounter &lt; rects.length; rectCounter++)
+		{
+			if (rects[rectCounter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;video&quot;) == &quot;rect&quot;)
+			{
+				x = rects[rectCounter].getAttribute(&quot;x&quot;);
+				y = rects[rectCounter].getAttribute(&quot;y&quot;);
+				width = rects[rectCounter].getAttribute(&quot;width&quot;);
+				height = rects[rectCounter].getAttribute(&quot;height&quot;);
+				transform = rects[rectCounter].getAttribute(&quot;transform&quot;);
+			}
+		}
+
+		for (var childCounter = 0; childCounter &lt; node.childNodes.length; childCounter++)
+		{
+			if (node.childNodes[childCounter].nodeType == 1)
+			{
+				if (node.childNodes[childCounter].style)
+				{
+					node.childNodes[childCounter].style.display = 'none';
+				}
+				else
+				{
+					node.childNodes[childCounter].setAttribute(&quot;style&quot;, &quot;display: none;&quot;);
+				}
+			}
+		}
+
+		var foreignNode = document.createElementNS(&quot;http://www.w3.org/2000/svg&quot;, &quot;foreignObject&quot;);
+		foreignNode.setAttribute(&quot;x&quot;, x);
+		foreignNode.setAttribute(&quot;y&quot;, y);
+		foreignNode.setAttribute(&quot;width&quot;, width);
+		foreignNode.setAttribute(&quot;height&quot;, height);
+		foreignNode.setAttribute(&quot;transform&quot;, transform);
+
+		var videoNode = document.createElementNS(&quot;http://www.w3.org/1999/xhtml&quot;, &quot;video&quot;);
+		videoNode.setAttribute(&quot;src&quot;, url);
+
+		foreignNode.appendChild(videoNode);
+		node.appendChild(foreignNode);
+	}
+}
+
+/** Class processing the location hash.
+ *
+ *	@param str location hash
+ */
+function LocationHash(str)
+{
+	this.slideNumber = 0;
+	this.effectNumber = 0;
+
+	str = str.substr(1, str.length - 1);
+
+	var parts = str.split('_');
+
+	// Try to extract slide number.
+	if (parts.length &gt;= 1)
+	{
+		try
+		{
+			var slideNumber = parseInt(parts[0]);
+
+			if (!isNaN(slideNumber))
+			{
+				this.slideNumber = slideNumber - 1;
+			}
+		}
+		catch (e)
+		{
+		}
+	}
+	
+	// Try to extract effect number.
+	if (parts.length &gt;= 2)
+	{
+		try
+		{
+			var effectNumber = parseInt(parts[1]);
+
+			if (!isNaN(effectNumber))
+			{
+				this.effectNumber = effectNumber;
+			}
+		}
+		catch (e)
+		{
+		}
+	}
+}
+
+/** Class representing an svg matrix.
+*/
+function matrixSVG()
+{
+	this.e11 = 0; // a
+	this.e12 = 0; // c
+	this.e13 = 0; // e
+	this.e21 = 0; // b
+	this.e22 = 0; // d
+	this.e23 = 0; // f
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 0;
+}
+
+/** Constructor function.
+ *
+ *	@param a element a (i.e. 1, 1) as described in the svg standard.
+ *	@param b element b (i.e. 2, 1) as described in the svg standard.
+ *	@param c element c (i.e. 1, 2) as described in the svg standard.
+ *	@param d element d (i.e. 2, 2) as described in the svg standard.
+ *	@param e element e (i.e. 1, 3) as described in the svg standard.
+ *	@param f element f (i.e. 2, 3) as described in the svg standard.
+ */
+matrixSVG.prototype.fromSVGElements = function(a, b, c, d, e, f)
+{
+	this.e11 = a;
+	this.e12 = c;
+	this.e13 = e;
+	this.e21 = b;
+	this.e22 = d;
+	this.e23 = f;
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param matrix an svg matrix as described in the svg standard.
+ */
+matrixSVG.prototype.fromSVGMatrix = function(m)
+{
+	this.e11 = m.a;
+	this.e12 = m.c;
+	this.e13 = m.e;
+	this.e21 = m.b;
+	this.e22 = m.d;
+	this.e23 = m.f;
+	this.e31 = 0;
+	this.e32 = 0;
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param e11 element 1, 1 of the matrix.
+ *	@param e12 element 1, 2 of the matrix.
+ *	@param e13 element 1, 3 of the matrix.
+ *	@param e21 element 2, 1 of the matrix.
+ *	@param e22 element 2, 2 of the matrix.
+ *	@param e23 element 2, 3 of the matrix.
+ *	@param e31 element 3, 1 of the matrix.
+ *	@param e32 element 3, 2 of the matrix.
+ *	@param e33 element 3, 3 of the matrix.
+ */
+matrixSVG.prototype.fromElements = function(e11, e12, e13, e21, e22, e23, e31, e32, e33)
+{
+	this.e11 = e11;
+	this.e12 = e12;
+	this.e13 = e13;
+	this.e21 = e21;
+	this.e22 = e22;
+	this.e23 = e23;
+	this.e31 = e31;
+	this.e32 = e32;
+	this.e33 = e33;
+
+	return this;
+}
+
+/** Constructor function.
+ *
+ *	@param attrString string value of the &quot;transform&quot; attribute (currently only &quot;matrix&quot; is accepted)
+ */
+matrixSVG.prototype.fromAttribute = function(attrString)
+{
+	str = attrString.substr(7, attrString.length - 8);
+
+	str = str.trim();
+
+	strArray = str.split(&quot;,&quot;);
+
+	// Opera does not use commas to separate the values of the matrix, only spaces.
+	if (strArray.length != 6)
+		strArray = str.split(&quot; &quot;);
+
+	this.e11 = parseFloat(strArray[0]);
+	this.e21 = parseFloat(strArray[1]);
+	this.e31 = 0;
+	this.e12 = parseFloat(strArray[2]);
+	this.e22 = parseFloat(strArray[3]);
+	this.e32 = 0;
+	this.e13 = parseFloat(strArray[4]);
+	this.e23 = parseFloat(strArray[5]);
+	this.e33 = 1;
+
+	return this;
+}
+
+/** Output function
+ *
+ *	@return a string that can be used as the &quot;transform&quot; attribute.
+ */
+matrixSVG.prototype.toAttribute = function()
+{
+	return &quot;matrix(&quot; + this.e11 + &quot;, &quot; + this.e21 + &quot;, &quot; + this.e12 + &quot;, &quot; + this.e22 + &quot;, &quot; + this.e13 + &quot;, &quot; + this.e23 + &quot;)&quot;;
+}
+
+/** Matrix nversion.
+ *
+ *	@return the inverse of the matrix
+ */
+matrixSVG.prototype.inv = function()
+{
+	out = new matrixSVG();
+
+	det = this.e11 * (this.e33 * this.e22 - this.e32 * this.e23) - this.e21 * (this.e33 * this.e12 - this.e32 * this.e13) + this.e31 * (this.e23 * this.e12 - this.e22 * this.e13);
+
+	out.e11 =  (this.e33 * this.e22 - this.e32 * this.e23) / det;
+	out.e12 = -(this.e33 * this.e12 - this.e32 * this.e13) / det;
+	out.e13 =  (this.e23 * this.e12 - this.e22 * this.e13) / det;
+	out.e21 = -(this.e33 * this.e21 - this.e31 * this.e23) / det;
+	out.e22 =  (this.e33 * this.e11 - this.e31 * this.e13) / det;
+	out.e23 = -(this.e23 * this.e11 - this.e21 * this.e13) / det;
+	out.e31 =  (this.e32 * this.e21 - this.e31 * this.e22) / det;
+	out.e32 = -(this.e32 * this.e11 - this.e31 * this.e12) / det;
+	out.e33 =  (this.e22 * this.e11 - this.e21 * this.e12) / det;
+
+	return out;
+}
+
+/** Matrix multiplication.
+ *
+ *	@param op another svg matrix
+ *	@return this * op
+ */
+matrixSVG.prototype.mult = function(op)
+{
+	out = new matrixSVG();
+
+	out.e11 = this.e11 * op.e11 + this.e12 * op.e21 + this.e13 * op.e31;
+	out.e12 = this.e11 * op.e12 + this.e12 * op.e22 + this.e13 * op.e32;
+	out.e13 = this.e11 * op.e13 + this.e12 * op.e23 + this.e13 * op.e33;
+	out.e21 = this.e21 * op.e11 + this.e22 * op.e21 + this.e23 * op.e31;
+	out.e22 = this.e21 * op.e12 + this.e22 * op.e22 + this.e23 * op.e32;
+	out.e23 = this.e21 * op.e13 + this.e22 * op.e23 + this.e23 * op.e33;
+	out.e31 = this.e31 * op.e11 + this.e32 * op.e21 + this.e33 * op.e31;
+	out.e32 = this.e31 * op.e12 + this.e32 * op.e22 + this.e33 * op.e32;
+	out.e33 = this.e31 * op.e13 + this.e32 * op.e23 + this.e33 * op.e33;
+
+	return out;
+}
+
+/** Matrix addition.
+ *
+ *	@param op another svg matrix
+ *	@return this + op
+ */
+matrixSVG.prototype.add = function(op)
+{
+	out = new matrixSVG();
+
+	out.e11 = this.e11 + op.e11;
+	out.e12 = this.e12 + op.e12;
+	out.e13 = this.e13 + op.e13;
+	out.e21 = this.e21 + op.e21;
+	out.e22 = this.e22 + op.e22;
+	out.e23 = this.e23 + op.e23;
+	out.e31 = this.e31 + op.e31;
+	out.e32 = this.e32 + op.e32;
+	out.e33 = this.e33 + op.e33;
+
+	return out;
+}
+
+/** Matrix mixing.
+ *
+ *	@param op another svg matrix
+ *	@parma contribOp contribution of the other matrix (0 &lt;= contribOp &lt;= 1)
+ *	@return (1 - contribOp) * this + contribOp * op
+ */
+matrixSVG.prototype.mix = function(op, contribOp)
+{
+	contribThis = 1.0 - contribOp;
+	out = new matrixSVG();
+
+	out.e11 = contribThis * this.e11 + contribOp * op.e11;
+	out.e12 = contribThis * this.e12 + contribOp * op.e12;
+	out.e13 = contribThis * this.e13 + contribOp * op.e13;
+	out.e21 = contribThis * this.e21 + contribOp * op.e21;
+	out.e22 = contribThis * this.e22 + contribOp * op.e22;
+	out.e23 = contribThis * this.e23 + contribOp * op.e23;
+	out.e31 = contribThis * this.e31 + contribOp * op.e31;
+	out.e32 = contribThis * this.e32 + contribOp * op.e32;
+	out.e33 = contribThis * this.e33 + contribOp * op.e33;
+
+	return out;
+}
+
+/** Trimming function for strings.
+*/
+String.prototype.trim = function()
+{
+	return this.replace(/^\s+|\s+$/g, '');
+}
+
+/** SVGElement.getTransformToElement polyfill */
+SVGElement.prototype.getTransformToElement = SVGElement.prototype.getTransformToElement || function(elem) {
+    return elem.getScreenCTM().inverse().multiply(this.getScreenCTM());
+};
+</script>
+</svg>
