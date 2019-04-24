@@ -74,7 +74,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="622.18459"
+     inkscape:cx="574.70742"
      inkscape:cy="308.55801"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -343,21 +343,21 @@
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:34.5640564px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#ffffff;stroke-width:0.46370792"
            id="flowPara3284-7-2">FLISOL</flowPara></flowRoot>      <flowRoot
          transform="matrix(1.5952892,0,0,1.8693668,3134.979,-1266.0306)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#dbf5ff;fill-opacity:1;stroke:none;stroke-width:0.25006264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25006264;"
          id="flowRoot3278-1-2-7-9"
          xml:space="preserve"><flowRegion
-           style="fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.13485068;"
            id="flowRegion3280-7-2-6-6"><rect
-             style="fill:#dbf5ff;fill-opacity:1;stroke-width:0.25006264"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.25006264;"
              y="784.33594"
              x="-1895.1682"
              height="334.83539"
              width="572.56848"
              id="rect3282-2-6-1-1" /></flowRegion><flowPara
            id="flowPara4034-0"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068">ARGENTINA</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.7627902px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';fill:#ffffff;fill-opacity:1;stroke-width:0.13485068;">ARGENTINA</flowPara><flowPara
            id="flowPara4062-4"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';fill:#dbf5ff;fill-opacity:1;stroke-width:0.13485068" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.13485068;" /></flowRoot>    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7223568px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
